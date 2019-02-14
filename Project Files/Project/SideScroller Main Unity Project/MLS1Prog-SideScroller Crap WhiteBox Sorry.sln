@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLS1Prog-SideScroller Crap WhiteBox Sorry", "Assembly-CSharp-firstpass.csproj", "{D4146E5F-DF69-0AC2-D0BB-8CF01A602188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLS1Prog-SideScroller Crap WhiteBox Sorry", "Assembly-CSharp.csproj", "{13E4D60A-D4A6-5E1C-1337-13206BBB8DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLS1Prog-SideScroller Crap WhiteBox Sorry", "Assembly-CSharp-Editor.csproj", "{4CDCBA1A-268A-8A4B-2E5E-D469A47E5D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4146E5F-DF69-0AC2-D0BB-8CF01A602188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4146E5F-DF69-0AC2-D0BB-8CF01A602188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4146E5F-DF69-0AC2-D0BB-8CF01A602188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4146E5F-DF69-0AC2-D0BB-8CF01A602188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E4D60A-D4A6-5E1C-1337-13206BBB8DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E4D60A-D4A6-5E1C-1337-13206BBB8DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E4D60A-D4A6-5E1C-1337-13206BBB8DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E4D60A-D4A6-5E1C-1337-13206BBB8DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDCBA1A-268A-8A4B-2E5E-D469A47E5D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDCBA1A-268A-8A4B-2E5E-D469A47E5D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDCBA1A-268A-8A4B-2E5E-D469A47E5D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDCBA1A-268A-8A4B-2E5E-D469A47E5D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

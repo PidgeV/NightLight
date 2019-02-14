@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RGD/Scenes/Test Scene Bea.unity
+  isLoaded: 1
+  isActive: 1
