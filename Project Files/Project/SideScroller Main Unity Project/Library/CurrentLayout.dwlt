@@ -108,7 +108,11 @@ MonoBehaviour:
   m_MinSize: {x: 808, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 126
+=======
+  controlID: 9
+>>>>>>> parent of c33b532... Added some pipes
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +137,11 @@ MonoBehaviour:
   m_MinSize: {x: 808, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 127
+=======
+  controlID: 10
+>>>>>>> parent of c33b532... Added some pipes
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +165,11 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 128
+=======
+  controlID: 11
+>>>>>>> parent of c33b532... Added some pipes
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -393,14 +405,24 @@ MonoBehaviour:
     height: 647
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
+<<<<<<< HEAD
   lastFramingTime: 162.0012194498807
+=======
+  lastFramingTime: 245.8484499
+>>>>>>> parent of c33b532... Added some pipes
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -41.312405, y: 2.353654, z: -0.47219145}
     speed: 2
     m_Value: {x: -41.312405, y: 2.353654, z: -0.47219145}
+=======
+    m_Target: {x: -57.814552, y: 4.8317676, z: -213.01099}
+    speed: 2
+    m_Value: {x: -57.814552, y: 4.8317676, z: -213.01099}
+>>>>>>> parent of c33b532... Added some pipes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -428,6 +450,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.09825861, y: 0.331329, z: -0.034714986, w: -0.93774265}
     speed: 2
     m_Value: {x: -0.09825861, y: 0.331329, z: -0.034714986, w: -0.93774265}
@@ -435,6 +458,15 @@ MonoBehaviour:
     m_Target: 1.6922781
     speed: 2
     m_Value: 1.6922781
+=======
+    m_Target: {x: -0.21517469, y: -0.16002147, z: 0.035814624, w: -0.96272784}
+    speed: 2
+    m_Value: {x: -0.21517096, y: -0.1600187, z: 0.035814006, w: -0.9627112}
+  m_Size:
+    m_Target: 51.725315
+    speed: 2
+    m_Value: 51.725315
+>>>>>>> parent of c33b532... Added some pipes
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -483,21 +515,36 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/NLS/Prefabs/Environment
   m_ViewMode: 1
   m_StartGridSize: 75
   m_LastFolders:
   - Assets/NLS/Prefabs/Environment
+=======
+    - Assets/NLS/Models
+  m_ViewMode: 1
+  m_StartGridSize: 75
+  m_LastFolders:
+  - Assets/NLS/Models
+>>>>>>> parent of c33b532... Added some pipes
   m_LastFoldersGridSize: 75
   m_LastProjectPath: C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller
     Main Unity Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 25.335108}
     m_SelectedIDs: f6360000
     m_LastClickedID: 14070
     m_ExpandedIDs: 00000000743300006a350000f0360000c0390000163b00007c4700007e61000000ca9a3b
+=======
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: f4210000
+    m_LastClickedID: 8692
+    m_ExpandedIDs: 00000000a40c0000a60e0000381000003a100000241300009614000086200000385d000000ca9a3b
+>>>>>>> parent of c33b532... Added some pipes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +572,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000743300006a350000f0360000c0390000163b00007e610000
+=======
+    m_ExpandedIDs: 00000000a40c0000a60e0000381000003a100000241300009614000086200000385d0000
+>>>>>>> parent of c33b532... Added some pipes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -552,7 +603,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: a02e0000b83f0000b23d00001a340000a2530000d635000028360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -660,10 +711,17 @@ MonoBehaviour:
     height: 926
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 60eeffff00000000
+=======
+    scrollPos: {x: 0, y: 608}
+    m_SelectedIDs: fc240000
+    m_LastClickedID: 9468
+    m_ExpandedIDs: e6fbffff00000000f8240000c0250000ee2500001c270000962700002a280000e82a0000ac2c0000d4300000
+>>>>>>> parent of c33b532... Added some pipes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
