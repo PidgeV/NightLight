@@ -112,7 +112,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 126
+=======
+  controlID: 9
+>>>>>>> parent of c33b532... Added some pipes
 =======
   controlID: 9
 >>>>>>> parent of c33b532... Added some pipes
@@ -153,7 +157,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 127
+=======
+  controlID: 10
+>>>>>>> parent of c33b532... Added some pipes
 =======
   controlID: 10
 >>>>>>> parent of c33b532... Added some pipes
@@ -193,7 +201,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 128
+=======
+  controlID: 11
+>>>>>>> parent of c33b532... Added some pipes
 =======
   controlID: 11
 >>>>>>> parent of c33b532... Added some pipes
@@ -445,7 +457,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastFramingTime: 162.0012194498807
+=======
+  lastFramingTime: 245.8484499
+>>>>>>> parent of c33b532... Added some pipes
 =======
   lastFramingTime: 245.8484499
 >>>>>>> parent of c33b532... Added some pipes
@@ -466,9 +482,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -41.312405, y: 2.353654, z: -0.47219145}
     speed: 2
     m_Value: {x: -41.312405, y: 2.353654, z: -0.47219145}
+=======
+    m_Target: {x: -57.814552, y: 4.8317676, z: -213.01099}
+    speed: 2
+    m_Value: {x: -57.814552, y: 4.8317676, z: -213.01099}
+>>>>>>> parent of c33b532... Added some pipes
 =======
     m_Target: {x: -57.814552, y: 4.8317676, z: -213.01099}
     speed: 2
@@ -520,6 +542,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.09825861, y: 0.331329, z: -0.034714986, w: -0.93774265}
     speed: 2
     m_Value: {x: -0.09825861, y: 0.331329, z: -0.034714986, w: -0.93774265}
@@ -530,6 +553,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of c33b532... Added some pipes
+=======
+>>>>>>> parent of c33b532... Added some pipes
     m_Target: {x: -0.21517469, y: -0.16002147, z: 0.035814624, w: -0.96272784}
     speed: 2
     m_Value: {x: -0.21517096, y: -0.1600187, z: 0.035814006, w: -0.9627112}
@@ -537,6 +562,7 @@ MonoBehaviour:
     m_Target: 51.725315
     speed: 2
     m_Value: 51.725315
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of c33b532... Added some pipes
 =======
@@ -550,6 +576,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 51.725315
 <<<<<<< HEAD
+>>>>>>> parent of c33b532... Added some pipes
+=======
 >>>>>>> parent of c33b532... Added some pipes
 =======
 >>>>>>> parent of c33b532... Added some pipes
@@ -607,6 +635,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/NLS/Prefabs/Environment
   m_ViewMode: 1
   m_StartGridSize: 75
@@ -638,6 +667,13 @@ MonoBehaviour:
 >>>>>>> parent of c33b532... Added some pipes
 =======
 >>>>>>> parent of c33b532... Added some pipes
+=======
+    - Assets/NLS/Models
+  m_ViewMode: 1
+  m_StartGridSize: 75
+  m_LastFolders:
+  - Assets/NLS/Models
+>>>>>>> parent of c33b532... Added some pipes
   m_LastFoldersGridSize: 75
   m_LastProjectPath: C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller
     Main Unity Project
@@ -657,6 +693,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c33b532... Added some pipes
+=======
 >>>>>>> parent of c33b532... Added some pipes
 =======
 >>>>>>> parent of c33b532... Added some pipes
@@ -695,7 +734,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000743300006a350000f0360000c0390000163b00007e610000
+=======
+    m_ExpandedIDs: 00000000a40c0000a60e0000381000003a100000241300009614000086200000385d0000
+>>>>>>> parent of c33b532... Added some pipes
 =======
     m_ExpandedIDs: 00000000a40c0000a60e0000381000003a100000241300009614000086200000385d0000
 >>>>>>> parent of c33b532... Added some pipes
@@ -846,11 +889,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 60eeffff00000000
 =======
+=======
+>>>>>>> parent of c33b532... Added some pipes
 =======
 >>>>>>> parent of c33b532... Added some pipes
 =======
@@ -864,6 +910,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c33b532... Added some pipes
+=======
 >>>>>>> parent of c33b532... Added some pipes
 =======
 >>>>>>> parent of c33b532... Added some pipes
