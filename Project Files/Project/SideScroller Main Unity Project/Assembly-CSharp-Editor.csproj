@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{7C8FF278-8BDA-21AD-F8BE-19C960E93E8F}</ProjectGuid>
+    <ProjectGuid>{7419CF5E-2FBC-9F8A-51F6-550811F21B95}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -91,22 +91,22 @@
     <None Include="Assets\Aura\Editor\Shaders\ColorFieldDrawerShader.shader" />
     <None Include="Assets\Aura\Editor\Shaders\Texture3DPreviewShader.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NLS/Project Files/Milestone 1/MLS1Prog-SideScroller WhiteBox/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NLS/Project Files/Milestone 1/MLS1Prog-SideScroller WhiteBox/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NLS/Project Files/Milestone 1/MLS1Prog-SideScroller WhiteBox/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NLS/Project Files/Milestone 1/MLS1Prog-SideScroller WhiteBox/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NLS/Project Files/Milestone 1/MLS1Prog-SideScroller WhiteBox/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NLS/Project Files/Milestone 1/MLS1Prog-SideScroller WhiteBox/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Users/Nathe/OneDrive/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -396,11 +396,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{C7E5D180-8847-B62B-7B19-411F8456148C}</Project>
+      <Project>{A47F2CF4-F70D-AAEF-F7A5-B22005BD9882}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{0BABE399-ABCF-0D6C-B58A-C71671EA1BF4}</Project>
+      <Project>{0D2C63CA-55CF-CF62-3ACA-EA4BF03ECEFE}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
