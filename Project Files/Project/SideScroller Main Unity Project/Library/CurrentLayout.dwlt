@@ -108,7 +108,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 1
-  controlID: 9
+  controlID: 112
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 10
+  controlID: 113
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 11
+  controlID: 114
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -393,14 +393,14 @@ MonoBehaviour:
     height: 647
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 245.8484499
+  lastFramingTime: 982.5481876
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -57.814552, y: 4.8317676, z: -213.01099}
+    m_Target: {x: 41.42325, y: 27.74504, z: -61.881805}
     speed: 2
-    m_Value: {x: -57.814552, y: 4.8317676, z: -213.01099}
+    m_Value: {x: 41.42325, y: 27.74504, z: -61.881805}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -428,13 +428,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.21517469, y: -0.16002147, z: 0.035814624, w: -0.96272784}
+    m_Target: {x: 0.22439072, y: 0.34470165, z: -0.08523258, w: 0.90751064}
     speed: 2
-    m_Value: {x: -0.21517096, y: -0.1600187, z: 0.035814006, w: -0.9627112}
+    m_Value: {x: 0.22438954, y: 0.34469983, z: -0.08523213, w: 0.90750587}
   m_Size:
-    m_Target: 51.725315
+    m_Target: 233.31041
     speed: 2
-    m_Value: 51.725315
+    m_Value: 233.31041
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -483,11 +483,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/NLS/Models
+    - Assets/NLS/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 75
   m_LastFolders:
-  - Assets/NLS/Models
+  - Assets/NLS/Prefabs
   m_LastFoldersGridSize: 75
   m_LastProjectPath: D:\Users\Nathe\OneDrive\Documents\GitHub\NightLight\Project Files\Project\SideScroller
     Main Unity Project
@@ -495,9 +495,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: f4210000
-    m_LastClickedID: 8692
-    m_ExpandedIDs: 00000000a40c0000a60e0000381000003a100000241300009614000086200000385d000000ca9a3b
+    m_SelectedIDs: 26210000
+    m_LastClickedID: 8486
+    m_ExpandedIDs: 00000000a40c0000a60e0000381000003a100000241300009614000086200000f4210000785d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a40c0000a60e0000381000003a100000241300009614000086200000385d0000
+    m_ExpandedIDs: 00000000a40c0000a60e0000381000003a100000241300009614000086200000785d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -552,7 +552,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: a02e0000b83f0000b23d00001a340000a2530000d635000028360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -660,10 +660,10 @@ MonoBehaviour:
     height: 926
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 608}
-    m_SelectedIDs: fc240000
-    m_LastClickedID: 9468
-    m_ExpandedIDs: e6fbffff00000000f8240000c0250000ee2500001c270000962700002a280000e82a0000ac2c0000d4300000
+    scrollPos: {x: 0, y: 32}
+    m_SelectedIDs: 36a2fdff
+    m_LastClickedID: -155082
+    m_ExpandedIDs: 04c0fdffece8fdff9cd1feff8216ffffe6fbffff00000000fe250000462800006e290000b02e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
