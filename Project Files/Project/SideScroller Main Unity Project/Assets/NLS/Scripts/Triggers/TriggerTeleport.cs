@@ -22,7 +22,9 @@ public class TriggerTeleport : MonoBehaviour
     private TextMeshPro text;
     private Color clr;
     private float blendValue = 0;
-    public float fadeSpeed = 1;
+    // [HideInInspector]        Get help with this
+    [Header("Blake, ask john about this")]
+    public float textFadeSpeed = 1;
 
     //Reveal variables
     public bool hasAnimation = false;
@@ -55,16 +57,16 @@ public class TriggerTeleport : MonoBehaviour
         if (interactWith)
         {
             //Increase/decrease alpha if player is inside/outside collider
-            if (fenIn)
+            if (fenIn && text != null)
             {
-                if (blendValue > 0) blendValue -= fadeSpeed * Time.deltaTime;
+                if (blendValue > 0) blendValue -= textFadeSpeed * Time.deltaTime;
                 else blendValue = 0;
 
                 text.faceColor = Color32.Lerp(text.color, clr, blendValue);
             }
-            else
+            else if(text != null)
             {
-                if (blendValue < 1) blendValue += fadeSpeed * Time.deltaTime;
+                if (blendValue < 1) blendValue += textFadeSpeed * Time.deltaTime;
                 else blendValue = 1;
 
                 text.faceColor = Color.Lerp(text.color, clr, blendValue);

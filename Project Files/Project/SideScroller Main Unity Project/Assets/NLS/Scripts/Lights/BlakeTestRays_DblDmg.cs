@@ -15,8 +15,8 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
     public bool rayHitP1 = false;
     public bool rayHitP2 = false;
 
-    float rayLength;
-
+    private float rayLength;
+    public float raySize = 0.2f;
 
     // Use this for initialization
     void Start()
@@ -47,7 +47,7 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
 
             RaycastHit hit;
 
-            if (Physics.SphereCast(currentLight.transform.position, 0.2f, player.transform.position - transform.position, out hit, rayLength))
+            if (Physics.SphereCast(currentLight.transform.position, raySize, player.transform.position - transform.position, out hit, rayLength))
             {
                 PlayerLightCounter counter = player.GetComponent<PlayerLightCounter>();
                 if (hit.collider.tag == "Player")
@@ -70,7 +70,7 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
 
             RaycastHit hit;
 
-            if (Physics.SphereCast(currentLight.transform.position, 0.1f, player2.transform.position - transform.position, out hit, rayLength))
+            if (Physics.SphereCast(currentLight.transform.position, raySize / 2, player2.transform.position - transform.position, out hit, rayLength))
             {
                 PlayerLightCounter counter = player2.GetComponent<PlayerLightCounter>();
                 if (hit.collider.tag == "Player2")
