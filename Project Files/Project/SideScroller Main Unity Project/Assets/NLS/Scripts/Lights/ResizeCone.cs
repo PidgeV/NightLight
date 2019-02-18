@@ -22,7 +22,7 @@ public class ResizeCone : MonoBehaviour
     void Update()
     {
         temp = Mathf.Tan(currentLight.spotAngle * Mathf.Deg2Rad/2) * currentLight.range;
-        transform.localScale = new Vector3(temp * 2, temp * 2, currentLight.range);
+        transform.localScale = new Vector3(temp * 2 - 10, temp * 2 - 10, currentLight.range);
     }
 
     private void OnTriggerEnter(Collider other)
