@@ -19,30 +19,29 @@ public class TriggerTeleport : MonoBehaviour
     private bool fenIn = false;    
 
     //Text variables
-    private TextMeshPro text;
+    public TextMeshPro text;
     private Color clr;
     private float blendValue = 0;
     // [HideInInspector]        Get help with this
     [Header("Blake, ask john about this")]
     public float textFadeSpeed = 1;
 
-    //Reveal variables
-    public bool hasAnimation = false;
+    //Reveal variables - usable with custom inspector
+    //public bool hasAnimation = false;
 
     //Animation variables
-    [HideInInspector][Header("Optional:")][Tooltip("Camera will follow this during the duration of animation")]
+    [Header("Optional:")][Tooltip("Camera will follow this during the duration of animation")]
     public GameObject focusDuringAnim;
-    [HideInInspector]
-    public Animator animator;
-    [HideInInspector][Tooltip("The string to trigger in the animator")]
-    public string triggerString;
+    public Animator[] animator;
+    [Tooltip("The string to trigger in the animator")]
+    public string[] triggerString;
 
     // Use this for initialization
     void Start()
     {
         if (interactWith)
         {
-            text = GetComponent<TextMeshPro>();
+            if(text == null) text = GetComponent<TextMeshPro>();
 
             clr = text.faceColor;
             clr.a = 0;
@@ -57,20 +56,18 @@ public class TriggerTeleport : MonoBehaviour
         if (interactWith)
         {
             //Increase/decrease alpha if player is inside/outside collider
-            if (fenIn && text != null)
+            if (fenIn)
             {
                 if (blendValue > 0) blendValue -= textFadeSpeed * Time.deltaTime;
                 else blendValue = 0;
-
-                text.faceColor = Color32.Lerp(text.color, clr, blendValue);
             }
-            else if(text != null)
+            else
             {
                 if (blendValue < 1) blendValue += textFadeSpeed * Time.deltaTime;
                 else blendValue = 1;
-
-                text.faceColor = Color.Lerp(text.color, clr, blendValue);
             }
+
+            if (text != null) text.faceColor = Color.Lerp(text.color, clr, blendValue);  //Change text color if present
 
             //Allows click to teleport
             if (Input.GetButtonDown("Activate") && !levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && fenIn && fen.GetComponent<TeleportDelay>().CanTeleport())
@@ -83,14 +80,21 @@ public class TriggerTeleport : MonoBehaviour
     private void Teleport()
     {
         fen.transform.position = teleportTo.transform.position;
+        fen.GetComponent<PlayerLightCounter>().isInLight = false;
         fen.GetComponent<TeleportDelay>().ResetTime();
 
-        if (animator != null && hasAnimation)
+        //if (hasAnimation)
         {
-            fen.SetActive(false);
-            Debug.Log("Disabled Fen");
-            animator.SetTrigger(triggerString);
-            GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraFollow>().target = focusDuringAnim.transform;
+            for(int i = 0; i < animator.Length - 1; i++)
+            {
+                if(animator[i] != null)
+                {
+                    fen.SetActive(false);
+                    Debug.Log("Disabled Fen");
+                    animator[i].SetTrigger(triggerString[i]);
+                    GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraFollow>().target = focusDuringAnim.transform;
+                }                
+            }
         }
     }
 
@@ -115,25 +119,28 @@ public class TriggerTeleport : MonoBehaviour
     }
 }
 
-#if UNITY_EDITOR
-[CustomEditor(typeof(TriggerTeleport))]
-public class TriggerTeleport_Editor : Editor
-{
-    public override void OnInspectorGUI()
-    {
-        DrawDefaultInspector(); // for other non-HideInInspector fields
+//---------------------------------------------------------------------------
+//Custom inspector if animator isn't an array
 
-        TriggerTeleport script = target as TriggerTeleport;
+//#if UNITY_EDITOR
+//[CustomEditor(typeof(TriggerTeleport))]
+//public class TriggerTeleport_Editor : Editor
+//{
+//    public override void OnInspectorGUI()
+//    {
+//        DrawDefaultInspector(); // for other non-HideInInspector fields
 
-        // draw checkbox for the bool
-        //script.interactWith = EditorGUILayout.Toggle(script.interactWith);
+//        TriggerTeleport script = target as TriggerTeleport;
 
-        if (script.hasAnimation) // if bool is true, show other fields
-        {
-            script.focusDuringAnim = EditorGUILayout.ObjectField("Focus during Anim: ",script.focusDuringAnim, typeof(GameObject), true) as GameObject;
-            script.animator = EditorGUILayout.ObjectField("Animator:", script.animator, typeof(Animator), true) as Animator;
-            script.triggerString = EditorGUILayout.TextArea(script.triggerString) as string;
-        }
-    }
-}
-#endif
+//        // draw checkbox for the bool
+//        //script.interactWith = EditorGUILayout.Toggle(script.interactWith);
+
+//        if (script.hasAnimation) // if bool is true, show other fields
+//        {
+//            script.focusDuringAnim = EditorGUILayout.ObjectField("Focus during Anim: ",script.focusDuringAnim, typeof(GameObject), true) as GameObject;
+//            script.animator = EditorGUILayout.ObjectField("Animator:", script.animator, typeof(Animator), true) as Animator;
+//            script.triggerString = EditorGUILayout.TextArea(script.triggerString) as string;
+//        }
+//    }
+//}
+//#endif

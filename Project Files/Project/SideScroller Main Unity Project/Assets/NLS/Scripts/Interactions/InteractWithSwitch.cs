@@ -3,26 +3,37 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
+
 public class InteractWithSwitch : MonoBehaviour
 {
     public GameObject levelControlObject;
-    TextMeshPro text;
+
+    //Animation variables
+    [Header("Optional:")]
+    [Tooltip("This is an array of animators that will play when triggering switch")]
+    public Animator[] animator;
+    [Tooltip("The string to trigger in the animator")]
+    public string[] triggerString;
+
+    public TextMeshPro text;
+    public float transistionSpeed = 1;
     private Color clr;
 
     public bool lightsOnInitially;
     public Light[] lights;
 
-    public bool yennoIn = false;
-    public bool fenIn = false;
+    private bool yennoIn = false;
+    private bool fenIn = false;
 
-    public float blendValue = 0;
-    public float transistionSpeed = 1;
+    private float blendValue = 0;
 
     // Use this for initialization
     void Start()
     {
-        text = GetComponent<TextMeshPro>();
-
+        if (text == null) text = GetComponent<TextMeshPro>();
         clr = text.faceColor;
         clr.a = 0;
 
@@ -41,16 +52,14 @@ public class InteractWithSwitch : MonoBehaviour
         {
             if (blendValue > 0) blendValue -= transistionSpeed * Time.deltaTime;
             else blendValue = 0;
-
-            text.faceColor = Color32.Lerp(text.color, clr, blendValue);
         }
         else
         {
             if (blendValue < 1) blendValue += transistionSpeed * Time.deltaTime;
             else blendValue = 1;
-
-            text.faceColor = Color.Lerp(text.color, clr, blendValue);
         }
+
+        if(text != null) text.faceColor = Color.Lerp(text.color, clr, blendValue);  //Change text color if present
 
         //Allows click to activate lights
         if (Input.GetButtonDown("Activate") && levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && yennoIn)
@@ -60,6 +69,14 @@ public class InteractWithSwitch : MonoBehaviour
             {
                 if (lights[i] != null) lights[i].enabled = lightsOnInitially;
             }
+
+            for (int i = 0; i < animator.Length - 1; i++)
+            {
+                if (animator[i] != null)
+                {
+                    animator[i].SetTrigger(triggerString[i]);
+                }
+            }
         }
         else if (Input.GetButtonDown("Activate") && !levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && fenIn)
         {
@@ -67,6 +84,14 @@ public class InteractWithSwitch : MonoBehaviour
             for (int i = 0; i < lights.Length; i++)
             {
                 if (lights[i] != null) lights[i].enabled = lightsOnInitially;
+            }
+
+            for (int i = 0; i < animator.Length - 1; i++)
+            {
+                if (animator[i] != null)
+                {
+                    animator[i].SetTrigger(triggerString[i]);
+                }
             }
         }
     }
@@ -95,3 +120,29 @@ public class InteractWithSwitch : MonoBehaviour
         }
     }
 }
+
+//---------------------------------------------------------------------------
+//Custom inspector if animator isn't an array
+
+//#if UNITY_EDITOR
+//[CustomEditor(typeof(InteractWithSwitch))]
+//public class InteractWithSwitch_Editor : Editor
+//{
+//    public override void OnInspectorGUI()
+//    {
+//        DrawDefaultInspector(); // for other non-HideInInspector fields
+
+//        TriggerTeleport script = target as TriggerTeleport;
+
+//        // draw checkbox for the bool
+//        //script.interactWith = EditorGUILayout.Toggle(script.interactWith);
+
+//        if (script.hasAnimation) // if bool is true, show other fields
+//        {
+//            script.focusDuringAnim = EditorGUILayout.ObjectField("Focus during Anim: ", script.focusDuringAnim, typeof(GameObject), true) as GameObject;
+//            script.animator = EditorGUILayout.ObjectField("Animator:", script.animator, typeof(Animator), true) as Animator;
+//            script.triggerString = EditorGUILayout.TextArea(script.triggerString) as string;
+//        }
+//    }
+//}
+//#endif
