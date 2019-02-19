@@ -16,10 +16,11 @@ public class TriggerTeleport : MonoBehaviour
     public GameObject teleportTo;
     private GameObject fen;
 
-    private bool fenIn = false;    
+    private bool fenIn = false;
 
     //Text variables
-    public TextMeshPro text;
+    public GameObject textObj;
+    TextMeshPro text;
     private Color clr;
     private float blendValue = 0;
     // [HideInInspector]        Get help with this
@@ -41,10 +42,14 @@ public class TriggerTeleport : MonoBehaviour
     {
         if (interactWith)
         {
-            if(text == null) text = GetComponent<TextMeshPro>();
+            if(textObj != null) text = textObj.GetComponent<TextMeshPro>();
+            else if(text == null) text = GetComponent<TextMeshPro>();
 
-            clr = text.faceColor;
-            clr.a = 0;
+            if (text != null)
+            {
+                clr = text.faceColor;
+                clr.a = 0;
+            }
         }
 
         if (fen == null) fen = GameObject.FindGameObjectWithTag("Player2");
