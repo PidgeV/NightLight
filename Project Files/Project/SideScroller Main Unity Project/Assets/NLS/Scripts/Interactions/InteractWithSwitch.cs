@@ -70,7 +70,7 @@ public class InteractWithSwitch : MonoBehaviour
                 if (lights[i] != null) lights[i].enabled = lightsOnInitially;
             }
 
-            for (int i = 0; i < animator.Length - 1; i++)
+            for (int i = 0; i < animator.Length; i++)
             {
                 if (animator[i] != null)
                 {
@@ -86,7 +86,7 @@ public class InteractWithSwitch : MonoBehaviour
                 if (lights[i] != null) lights[i].enabled = lightsOnInitially;
             }
 
-            for (int i = 0; i < animator.Length - 1; i++)
+            for (int i = 0; i < animator.Length; i++)
             {
                 if (animator[i] != null)
                 {
