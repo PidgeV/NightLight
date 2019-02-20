@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 611521bedaf71e44daffa123c8e5c3ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Roof Pnl 01
+    100002: Roof Pnl 02
+    100004: //RootNode
+    100006: Train 01 Door
+    100008: Train 01 Door 1
+    100010: Train 01 Door 2
+    100012: Train 01 Door 3
+    100014: Train 01 Exit Platform
+    100016: Train 01 Interior
+    100018: Train 01 Interior 1
+    100020: Train 01 Interior 10
+    100022: Train 01 Interior 11
+    100024: Train 01 Interior 12
+    100026: Train 01 Interior 13
+    100028: Train 01 Interior 14
+    100030: Train 01 Interior 15
+    100032: Train 01 Interior 16
+    100034: Train 01 Interior 17
+    100036: Train 01 Interior 18
+    100038: Train 01 Interior 19
+    100040: Train 01 Interior 2
+    100042: Train 01 Interior 3
+    100044: Train 01 Interior 4
+    100046: Train 01 Interior 5
+    100048: Train 01 Interior 6
+    100050: Train 01 Interior 7
+    100052: Train 01 Interior 8
+    100054: Train 01 Interior 9
+    100056: Train 01 Roof
+    100058: Train 01 Roof Vents
+    100060: Train 01 Wheels
+    100062: Wall
+    400000: Roof Pnl 01
+    400002: Roof Pnl 02
+    400004: //RootNode
+    400006: Train 01 Door
+    400008: Train 01 Door 1
+    400010: Train 01 Door 2
+    400012: Train 01 Door 3
+    400014: Train 01 Exit Platform
+    400016: Train 01 Interior
+    400018: Train 01 Interior 1
+    400020: Train 01 Interior 10
+    400022: Train 01 Interior 11
+    400024: Train 01 Interior 12
+    400026: Train 01 Interior 13
+    400028: Train 01 Interior 14
+    400030: Train 01 Interior 15
+    400032: Train 01 Interior 16
+    400034: Train 01 Interior 17
+    400036: Train 01 Interior 18
+    400038: Train 01 Interior 19
+    400040: Train 01 Interior 2
+    400042: Train 01 Interior 3
+    400044: Train 01 Interior 4
+    400046: Train 01 Interior 5
+    400048: Train 01 Interior 6
+    400050: Train 01 Interior 7
+    400052: Train 01 Interior 8
+    400054: Train 01 Interior 9
+    400056: Train 01 Roof
+    400058: Train 01 Roof Vents
+    400060: Train 01 Wheels
+    400062: Wall
+    2100000: Wood
+    2100002: Metal
+    2100004: RoofMetal
+    2100006: No Name
+    2100008: WallMetal
+    2100010: WheelMetal
+    2100012: SecondWood
+    2100014: Leather
+    2300000: Roof Pnl 01
+    2300002: Roof Pnl 02
+    2300004: //RootNode
+    2300006: Train 01 Door
+    2300008: Train 01 Door 1
+    2300010: Train 01 Door 2
+    2300012: Train 01 Door 3
+    2300014: Train 01 Exit Platform
+    2300016: Train 01 Interior
+    2300018: Train 01 Interior 1
+    2300020: Train 01 Interior 10
+    2300022: Train 01 Interior 11
+    2300024: Train 01 Interior 12
+    2300026: Train 01 Interior 13
+    2300028: Train 01 Interior 14
+    2300030: Train 01 Interior 15
+    2300032: Train 01 Interior 16
+    2300034: Train 01 Interior 17
+    2300036: Train 01 Interior 18
+    2300038: Train 01 Interior 19
+    2300040: Train 01 Interior 2
+    2300042: Train 01 Interior 3
+    2300044: Train 01 Interior 4
+    2300046: Train 01 Interior 5
+    2300048: Train 01 Interior 6
+    2300050: Train 01 Interior 7
+    2300052: Train 01 Interior 8
+    2300054: Train 01 Interior 9
+    2300056: Train 01 Roof
+    2300058: Train 01 Roof Vents
+    2300060: Train 01 Wheels
+    2300062: Wall
+    3300000: Roof Pnl 01
+    3300002: Roof Pnl 02
+    3300004: //RootNode
+    3300006: Train 01 Door
+    3300008: Train 01 Door 1
+    3300010: Train 01 Door 2
+    3300012: Train 01 Door 3
+    3300014: Train 01 Exit Platform
+    3300016: Train 01 Interior
+    3300018: Train 01 Interior 1
+    3300020: Train 01 Interior 10
+    3300022: Train 01 Interior 11
+    3300024: Train 01 Interior 12
+    3300026: Train 01 Interior 13
+    3300028: Train 01 Interior 14
+    3300030: Train 01 Interior 15
+    3300032: Train 01 Interior 16
+    3300034: Train 01 Interior 17
+    3300036: Train 01 Interior 18
+    3300038: Train 01 Interior 19
+    3300040: Train 01 Interior 2
+    3300042: Train 01 Interior 3
+    3300044: Train 01 Interior 4
+    3300046: Train 01 Interior 5
+    3300048: Train 01 Interior 6
+    3300050: Train 01 Interior 7
+    3300052: Train 01 Interior 8
+    3300054: Train 01 Interior 9
+    3300056: Train 01 Roof
+    3300058: Train 01 Roof Vents
+    3300060: Train 01 Wheels
+    3300062: Wall
+    4300000: Train 01
+    4300002: Train 01 Roof
+    4300004: Roof Pnl 02
+    4300006: Roof Pnl 01
+    4300008: Wall
+    4300010: Train 01 Exit Platform
+    4300012: Train 01 Roof Vents
+    4300014: Train 01 Wheels
+    4300016: Train 01 Door
+    4300018: Train 01 Door
+    4300020: Train 01 Door
+    4300022: Train 01 Door
+    4300024: Train 01 Interior
+    4300026: Train 01 Interior
+    4300028: Train 01 Interior
+    4300030: Train 01 Interior
+    4300032: Train 01 Interior
+    4300034: Train 01 Interior
+    4300036: Train 01 Interior
+    4300038: Train 01 Interior
+    4300040: Train 01 Interior
+    4300042: Train 01 Interior
+    4300044: Train 01 Interior
+    4300046: Train 01 Interior
+    4300048: Train 01 Interior
+    4300050: Train 01 Interior
+    4300052: Train 01 Interior
+    4300054: Train 01 Interior
+    4300056: Train 01 Interior
+    4300058: Train 01 Interior
+    4300060: Train 01 Interior
+    4300062: Train 01 Interior
+    6400000: Roof Pnl 01
+    6400002: Roof Pnl 02
+    6400004: //RootNode
+    6400006: Train 01 Door
+    6400008: Train 01 Door 1
+    6400010: Train 01 Door 2
+    6400012: Train 01 Door 3
+    6400014: Train 01 Exit Platform
+    6400016: Train 01 Interior
+    6400018: Train 01 Interior 1
+    6400020: Train 01 Interior 10
+    6400022: Train 01 Interior 11
+    6400024: Train 01 Interior 12
+    6400026: Train 01 Interior 13
+    6400028: Train 01 Interior 14
+    6400030: Train 01 Interior 15
+    6400032: Train 01 Interior 16
+    6400034: Train 01 Interior 17
+    6400036: Train 01 Interior 18
+    6400038: Train 01 Interior 19
+    6400040: Train 01 Interior 2
+    6400042: Train 01 Interior 3
+    6400044: Train 01 Interior 4
+    6400046: Train 01 Interior 5
+    6400048: Train 01 Interior 6
+    6400050: Train 01 Interior 7
+    6400052: Train 01 Interior 8
+    6400054: Train 01 Interior 9
+    6400056: Train 01 Roof
+    6400058: Train 01 Roof Vents
+    6400060: Train 01 Wheels
+    6400062: Wall
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather
+    second: {fileID: 2100000, guid: 7f6cf63f0c86eeb46af4e0e78b738c11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 97b5dc19100e0d64a8a5eb39f3e1f354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMetal
+    second: {fileID: 2100000, guid: 641f0755fd1a1a749ad774c784676d63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondWood
+    second: {fileID: 2100000, guid: 38011995a3b608346927606c319402a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallMetal
+    second: {fileID: 2100000, guid: fc66cf45639c8ce40932749e636061cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WheelMetal
+    second: {fileID: 2100000, guid: 4aa2e32afc028284e8b19acfd474a2f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: b7551bbd361c52e429d9b5c6f18bfcfb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 13
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
