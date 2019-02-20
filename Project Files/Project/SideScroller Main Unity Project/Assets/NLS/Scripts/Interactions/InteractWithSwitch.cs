@@ -24,11 +24,13 @@ public class InteractWithSwitch : MonoBehaviour
 
     public bool lightsOnInitially;
     public Light[] lights;
+    public float lightDelay = 0.0f;
 
     private bool yennoIn = false;
     private bool fenIn = false;
 
     private float blendValue = 0;
+    private float triggerDelay = 0;
 
     // Use this for initialization
     void Start()
@@ -46,7 +48,7 @@ public class InteractWithSwitch : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        triggerDelay += Time.deltaTime;
         //Increase/decrease alpha if player is inside/outside collider
         if (yennoIn || fenIn)
         {
@@ -64,34 +66,36 @@ public class InteractWithSwitch : MonoBehaviour
         //Allows click to activate lights
         if (Input.GetButtonDown("Activate") && levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && yennoIn)
         {
-            lightsOnInitially = !lightsOnInitially;
-            for (int i = 0; i < lights.Length; i++)
+            if (triggerDelay >= lightDelay * 2)
             {
-                if (lights[i] != null) lights[i].enabled = lightsOnInitially;
-            }
-
-            for (int i = 0; i < animator.Length; i++)
-            {
-                if (animator[i] != null)
-                {
-                    animator[i].SetTrigger(triggerString[i]);
-                }
+                StartCoroutine(ChangeLights());
+                triggerDelay = 0;
             }
         }
         else if (Input.GetButtonDown("Activate") && !levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && fenIn)
         {
-            lightsOnInitially = !lightsOnInitially;
-            for (int i = 0; i < lights.Length; i++)
+            if (triggerDelay >= lightDelay * 2)
             {
-                if (lights[i] != null) lights[i].enabled = lightsOnInitially;
+                StartCoroutine(ChangeLights());
+                triggerDelay = 0;
             }
+        }
+    }
 
-            for (int i = 0; i < animator.Length; i++)
+    IEnumerator ChangeLights()
+    {
+        yield return new WaitForSeconds(lightDelay);
+        lightsOnInitially = !lightsOnInitially;
+        for (int i = 0; i < lights.Length; i++)
+        {
+            if (lights[i] != null) lights[i].enabled = lightsOnInitially;
+        }
+
+        for (int i = 0; i < animator.Length; i++)
+        {
+            if (animator[i] != null)
             {
-                if (animator[i] != null)
-                {
-                    animator[i].SetTrigger(triggerString[i]);
-                }
+                animator[i].SetTrigger(triggerString[i]);
             }
         }
     }
