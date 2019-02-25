@@ -22,6 +22,8 @@ public class InteractWithSwitch : MonoBehaviour
     public float transistionSpeed = 1;
     private Color clr;
 
+    [Tooltip("If true, all lights will use the first bool in the array.")]
+    public bool lightsSynchronized;
     public bool[] lightOnInitially;
     public Light[] lights;
     public float lightDelay = 0.0f;
@@ -41,7 +43,8 @@ public class InteractWithSwitch : MonoBehaviour
 
         for (int i = 0; i < lights.Length; i++)
         {
-            if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
+            if (lights[i] != null && lightsSynchronized) lights[i].enabled = lightOnInitially[0];
+            else if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
         }
     }
 
@@ -61,7 +64,7 @@ public class InteractWithSwitch : MonoBehaviour
             else blendValue = 1;
         }
 
-        if(text != null) text.faceColor = Color.Lerp(text.color, clr, blendValue);  //Change text color if present
+        if (text != null) text.faceColor = Color.Lerp(text.color, clr, blendValue);  //Change text color if present
 
         //Allows click to activate lights
         if (Input.GetButtonDown("Activate") && levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && yennoIn)
@@ -85,13 +88,27 @@ public class InteractWithSwitch : MonoBehaviour
     IEnumerator ChangeLights()
     {
         yield return new WaitForSeconds(lightDelay);
-        
-        for (int i = 0; i < lights.Length; i++)
+
+        //Change lights
+        if (lightsSynchronized)
         {
-            lightOnInitially[i] = !lightOnInitially[i];
-            if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
+            lightOnInitially[0] = !lightOnInitially[0];
         }
 
+        for (int i = 0; i < lights.Length; i++)
+        {
+            if (!lightsSynchronized)
+            {
+                lightOnInitially[i] = !lightOnInitially[i];
+                if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
+            }
+            else
+            {
+                if (lights[i] != null) lights[i].enabled = lightOnInitially[0];
+            }
+        }
+
+        //Run animations
         for (int i = 0; i < animator.Length; i++)
         {
             if (animator[i] != null)
