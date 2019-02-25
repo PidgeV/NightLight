@@ -15,7 +15,7 @@ public class ResizeCone : MonoBehaviour
         //currentLight = GetComponent<Light>();
         parentLight = transform.parent.gameObject;
         rays = parentLight.GetComponent<BlakeTestRays_DblDmg>();
-        this.transform.gameObject.layer = 2;
+        this.transform.gameObject.layer = 9;
     }
 
     // Update is called once per frame

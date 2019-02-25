@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BlakeTestRays_DblDmg : MonoBehaviour
 {
-    LayerMask layerMask = (1 << 8);
+    LayerMask layerMask;
     Light currentLight;
     GameObject player;
     GameObject player2;
@@ -21,6 +21,8 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        layerMask = ~(1 << LayerMask.NameToLayer("IgnoreLights"));
+
         currentLight = GetComponent<Light>();
         player = GameObject.FindGameObjectWithTag("Player");
         player2 = GameObject.FindGameObjectWithTag("Player2");
@@ -31,7 +33,6 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         if (currentLight.enabled == true)
         {
             GetComponent<AuraAPI.AuraLight>().enabled = true;
@@ -52,9 +53,7 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
                 PlayerLightCounter counter = player.GetComponent<PlayerLightCounter>();
                 if (hit.collider.tag == "Player")
                 {
-                    Debug.DrawRay(currentLight.transform.position, player.transform.position - transform.position, Color.red);
-                    
-                    counter.isInLight = true;
+                    Debug.DrawRay(currentLight.transform.position, player.transform.position - transform.position, Color.red);                    
                     rayHitP1 = true;
                 }
                 else

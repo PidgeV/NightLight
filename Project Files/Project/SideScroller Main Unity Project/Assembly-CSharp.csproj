@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CameraMultiFollow.cs" />
     <Compile Include="Assets\Downloaded\Aura\Attributes\ColorCircularPickerAttribute.cs" />
     <Compile Include="Assets\Downloaded\Aura\Attributes\Texture3DPreviewAttribute.cs" />
     <Compile Include="Assets\Downloaded\Aura\Classes\Aura.cs" />
