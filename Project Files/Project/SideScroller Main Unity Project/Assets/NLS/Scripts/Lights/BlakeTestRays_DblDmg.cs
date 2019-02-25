@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BlakeTestRays_DblDmg : MonoBehaviour
 {
-
+    LayerMask layerMask = (1 << 8);
     Light currentLight;
     GameObject player;
     GameObject player2;
@@ -46,8 +46,8 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
             rayLength = currentLight.range / 3 * 2;
 
             RaycastHit hit;
-
-            if (Physics.SphereCast(currentLight.transform.position, raySize, player.transform.position - transform.position, out hit, rayLength))
+            Ray ray = new Ray(currentLight.transform.position, player.transform.position - transform.position);
+            if (Physics.SphereCast(ray, raySize, out hit, rayLength, layerMask))
             {
                 PlayerLightCounter counter = player.GetComponent<PlayerLightCounter>();
                 if (hit.collider.tag == "Player")
@@ -69,8 +69,8 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
             rayLength = currentLight.range / 3 * 2;
 
             RaycastHit hit;
-
-            if (Physics.SphereCast(currentLight.transform.position, raySize / 2, player2.transform.position - transform.position, out hit, rayLength))
+            Ray ray = new Ray(currentLight.transform.position, player2.transform.position - transform.position);
+            if (Physics.SphereCast(ray, raySize, out hit, rayLength, layerMask))
             {
                 PlayerLightCounter counter = player2.GetComponent<PlayerLightCounter>();
                 if (hit.collider.tag == "Player2")
