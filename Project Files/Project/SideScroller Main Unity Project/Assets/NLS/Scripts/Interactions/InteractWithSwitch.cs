@@ -7,6 +7,7 @@ using TMPro;
 using UnityEditor;
 #endif
 
+[System.Serializable]
 public class InteractWithSwitch : MonoBehaviour
 {
     public GameObject levelControlObject;
@@ -85,7 +86,7 @@ public class InteractWithSwitch : MonoBehaviour
         }
     }
 
-    IEnumerator ChangeLights()
+    public IEnumerator ChangeLights()
     {
         yield return new WaitForSeconds(lightDelay);
 
@@ -146,25 +147,29 @@ public class InteractWithSwitch : MonoBehaviour
 //---------------------------------------------------------------------------
 //Custom inspector if animator isn't an array
 
-//#if UNITY_EDITOR
-//[CustomEditor(typeof(InteractWithSwitch))]
-//public class InteractWithSwitch_Editor : Editor
-//{
-//    public override void OnInspectorGUI()
-//    {
-//        DrawDefaultInspector(); // for other non-HideInInspector fields
+#if UNITY_EDITOR
+[CustomEditor(typeof(InteractWithSwitch))]
+public class InteractWithSwitch_Editor : Editor
+{
+    public override void OnInspectorGUI()
+    {
+        DrawDefaultInspector(); // for other non-HideInInspector fields
 
-//        TriggerTeleport script = target as TriggerTeleport;
+        InteractWithSwitch script = target as InteractWithSwitch;
 
-//        // draw checkbox for the bool
-//        //script.interactWith = EditorGUILayout.Toggle(script.interactWith);
+        // draw checkbox for the bool
+        //script.interactWith = EditorGUILayout.Toggle(script.interactWith);
+        if(GUILayout.Button("Switch lights"))
+        {
+            script.StartCoroutine(script.ChangeLights());
+        }
 
-//        if (script.hasAnimation) // if bool is true, show other fields
-//        {
-//            script.focusDuringAnim = EditorGUILayout.ObjectField("Focus during Anim: ", script.focusDuringAnim, typeof(GameObject), true) as GameObject;
-//            script.animator = EditorGUILayout.ObjectField("Animator:", script.animator, typeof(Animator), true) as Animator;
-//            script.triggerString = EditorGUILayout.TextArea(script.triggerString) as string;
-//        }
-//    }
-//}
-//#endif
+        //if (script.hasAnimation) // if bool is true, show other fields
+        {
+            //script.focusDuringAnim = EditorGUILayout.ObjectField("Focus during Anim: ", script.focusDuringAnim, typeof(GameObject), true) as GameObject;
+            //script.animator = EditorGUILayout.ObjectField("Animator:", script.animator, typeof(Animator), true) as Animator;
+            //script.triggerString = EditorGUILayout.TextArea(script.triggerString) as string;
+        }
+    }
+}
+#endif
