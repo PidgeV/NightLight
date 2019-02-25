@@ -22,7 +22,7 @@ public class InteractWithSwitch : MonoBehaviour
     public float transistionSpeed = 1;
     private Color clr;
 
-    public bool lightsOnInitially;
+    public bool[] lightOnInitially;
     public Light[] lights;
     public float lightDelay = 0.0f;
 
@@ -41,7 +41,7 @@ public class InteractWithSwitch : MonoBehaviour
 
         for (int i = 0; i < lights.Length; i++)
         {
-            if (lights[i] != null) lights[i].enabled = lightsOnInitially;
+            if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
         }
     }
 
@@ -85,10 +85,11 @@ public class InteractWithSwitch : MonoBehaviour
     IEnumerator ChangeLights()
     {
         yield return new WaitForSeconds(lightDelay);
-        lightsOnInitially = !lightsOnInitially;
+        
         for (int i = 0; i < lights.Length; i++)
         {
-            if (lights[i] != null) lights[i].enabled = lightsOnInitially;
+            lightOnInitially[i] = !lightOnInitially[i];
+            if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
         }
 
         for (int i = 0; i < animator.Length; i++)
