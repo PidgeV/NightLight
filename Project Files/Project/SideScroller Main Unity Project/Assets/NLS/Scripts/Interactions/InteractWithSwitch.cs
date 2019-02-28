@@ -7,6 +7,7 @@ using TMPro;
 using UnityEditor;
 #endif
 
+[System.Serializable]
 public class InteractWithSwitch : MonoBehaviour
 {
     public GameObject levelControlObject;
@@ -22,7 +23,9 @@ public class InteractWithSwitch : MonoBehaviour
     public float transistionSpeed = 1;
     private Color clr;
 
-    public bool lightsOnInitially;
+    [Tooltip("If true, all lights will use the first bool in the array.")]
+    public bool lightsSynchronized;
+    public bool[] lightOnInitially;
     public Light[] lights;
     public float lightDelay = 0.0f;
 
@@ -41,7 +44,8 @@ public class InteractWithSwitch : MonoBehaviour
 
         for (int i = 0; i < lights.Length; i++)
         {
-            if (lights[i] != null) lights[i].enabled = lightsOnInitially;
+            if (lights[i] != null && lightsSynchronized) lights[i].enabled = lightOnInitially[0];
+            else if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
         }
     }
 
@@ -61,7 +65,7 @@ public class InteractWithSwitch : MonoBehaviour
             else blendValue = 1;
         }
 
-        if(text != null) text.faceColor = Color.Lerp(text.color, clr, blendValue);  //Change text color if present
+        if (text != null) text.faceColor = Color.Lerp(text.color, clr, blendValue);  //Change text color if present
 
         //Allows click to activate lights
         if (Input.GetButtonDown("Activate") && levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && yennoIn)
@@ -82,15 +86,30 @@ public class InteractWithSwitch : MonoBehaviour
         }
     }
 
-    IEnumerator ChangeLights()
+    public IEnumerator ChangeLights()
     {
         yield return new WaitForSeconds(lightDelay);
-        lightsOnInitially = !lightsOnInitially;
-        for (int i = 0; i < lights.Length; i++)
+
+        //Change lights
+        if (lightsSynchronized)
         {
-            if (lights[i] != null) lights[i].enabled = lightsOnInitially;
+            lightOnInitially[0] = !lightOnInitially[0];
         }
 
+        for (int i = 0; i < lights.Length; i++)
+        {
+            if (!lightsSynchronized)
+            {
+                lightOnInitially[i] = !lightOnInitially[i];
+                if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
+            }
+            else
+            {
+                if (lights[i] != null) lights[i].enabled = lightOnInitially[0];
+            }
+        }
+
+        //Run animations
         for (int i = 0; i < animator.Length; i++)
         {
             if (animator[i] != null)
@@ -128,25 +147,29 @@ public class InteractWithSwitch : MonoBehaviour
 //---------------------------------------------------------------------------
 //Custom inspector if animator isn't an array
 
-//#if UNITY_EDITOR
-//[CustomEditor(typeof(InteractWithSwitch))]
-//public class InteractWithSwitch_Editor : Editor
-//{
-//    public override void OnInspectorGUI()
-//    {
-//        DrawDefaultInspector(); // for other non-HideInInspector fields
+#if UNITY_EDITOR
+[CustomEditor(typeof(InteractWithSwitch))]
+public class InteractWithSwitch_Editor : Editor
+{
+    public override void OnInspectorGUI()
+    {
+        DrawDefaultInspector(); // for other non-HideInInspector fields
 
-//        TriggerTeleport script = target as TriggerTeleport;
+        InteractWithSwitch script = target as InteractWithSwitch;
 
-//        // draw checkbox for the bool
-//        //script.interactWith = EditorGUILayout.Toggle(script.interactWith);
+        // draw checkbox for the bool
+        //script.interactWith = EditorGUILayout.Toggle(script.interactWith);
+        if(GUILayout.Button("Switch lights"))
+        {
+            script.StartCoroutine(script.ChangeLights());
+        }
 
-//        if (script.hasAnimation) // if bool is true, show other fields
-//        {
-//            script.focusDuringAnim = EditorGUILayout.ObjectField("Focus during Anim: ", script.focusDuringAnim, typeof(GameObject), true) as GameObject;
-//            script.animator = EditorGUILayout.ObjectField("Animator:", script.animator, typeof(Animator), true) as Animator;
-//            script.triggerString = EditorGUILayout.TextArea(script.triggerString) as string;
-//        }
-//    }
-//}
-//#endif
+        //if (script.hasAnimation) // if bool is true, show other fields
+        {
+            //script.focusDuringAnim = EditorGUILayout.ObjectField("Focus during Anim: ", script.focusDuringAnim, typeof(GameObject), true) as GameObject;
+            //script.animator = EditorGUILayout.ObjectField("Animator:", script.animator, typeof(Animator), true) as Animator;
+            //script.triggerString = EditorGUILayout.TextArea(script.triggerString) as string;
+        }
+    }
+}
+#endif

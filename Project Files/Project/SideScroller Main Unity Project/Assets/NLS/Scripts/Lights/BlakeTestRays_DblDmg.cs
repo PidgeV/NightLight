@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BlakeTestRays_DblDmg : MonoBehaviour
 {
-
+    LayerMask layerMask;
     Light currentLight;
     GameObject player;
     GameObject player2;
@@ -21,6 +21,8 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        layerMask = ~(1 << LayerMask.NameToLayer("IgnoreLights"));
+
         currentLight = GetComponent<Light>();
         player = GameObject.FindGameObjectWithTag("Player");
         player2 = GameObject.FindGameObjectWithTag("Player2");
@@ -31,7 +33,6 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         if (currentLight.enabled == true)
         {
             GetComponent<AuraAPI.AuraLight>().enabled = true;
@@ -46,15 +47,13 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
             rayLength = currentLight.range / 3 * 2;
 
             RaycastHit hit;
-
-            if (Physics.SphereCast(currentLight.transform.position, raySize, player.transform.position - transform.position, out hit, rayLength))
+            Ray ray = new Ray(currentLight.transform.position, player.transform.position - transform.position);
+            if (Physics.SphereCast(ray, raySize, out hit, rayLength, layerMask))
             {
                 PlayerLightCounter counter = player.GetComponent<PlayerLightCounter>();
                 if (hit.collider.tag == "Player")
                 {
-                    Debug.DrawRay(currentLight.transform.position, player.transform.position - transform.position, Color.red);
-                    
-                    counter.isInLight = true;
+                    Debug.DrawRay(currentLight.transform.position, player.transform.position - transform.position, Color.red);                    
                     rayHitP1 = true;
                 }
                 else
@@ -69,8 +68,8 @@ public class BlakeTestRays_DblDmg : MonoBehaviour
             rayLength = currentLight.range / 3 * 2;
 
             RaycastHit hit;
-
-            if (Physics.SphereCast(currentLight.transform.position, raySize / 2, player2.transform.position - transform.position, out hit, rayLength))
+            Ray ray = new Ray(currentLight.transform.position, player2.transform.position - transform.position);
+            if (Physics.SphereCast(ray, raySize, out hit, rayLength, layerMask))
             {
                 PlayerLightCounter counter = player2.GetComponent<PlayerLightCounter>();
                 if (hit.collider.tag == "Player2")

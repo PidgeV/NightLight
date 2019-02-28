@@ -1350,3 +1350,9 @@ C:\Users\Administrator\Documents\GitHub\NightLight\Project Files\Project\SideScr
 C:\Users\Administrator\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
 C:\Users\Administrator\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\Administrator\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\KdTreeLib.dll
+C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\pb_Stl.dll
+C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\Poly2Tri.dll
+C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\ProBuilderCore.dll
+C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\ProBuilderMeshOps.dll
+C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\Unity.ProBuilder.AddOns.Editor.dll
