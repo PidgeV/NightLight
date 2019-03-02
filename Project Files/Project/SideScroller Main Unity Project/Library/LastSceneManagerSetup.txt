@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/NLS/Scenes/Scraps Level Slums.unity
+- path: Assets/NLS/Scenes/Scraps Level Downtown.unity
   isLoaded: 1
   isActive: 1
