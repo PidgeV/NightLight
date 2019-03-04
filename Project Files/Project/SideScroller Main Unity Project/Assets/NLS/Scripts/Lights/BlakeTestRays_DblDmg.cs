@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BlakeTestRays_DblDmg : MonoBehaviour
 {
-    LayerMask layerMask;
+    public LayerMask layerMask;
     Light currentLight;
     GameObject player;
     GameObject player2;
