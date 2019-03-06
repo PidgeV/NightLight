@@ -15,6 +15,11 @@ public class FinishLevel : MonoBehaviour {
     public int minIndex = 0;
     [Header("Amount of time(in seconds) player must stand in trigger to reload the level.")]
     public float timeBeforeLoad = 1;
+    public GameObject spinner;
+
+    public float smooth = 5.0f;
+    float tiltAngle = 0.0f;
+
 
     private void OnTriggerStay(Collider other)
     {
@@ -67,5 +72,34 @@ public class FinishLevel : MonoBehaviour {
         if (sceneIndex < minIndex)
             sceneIndex = maxIndex;
     }
+
+    public void SpinInc()
+    {
+        if (spinner)
+        {
+            tiltAngle += 120;
+            //spinner.GetComponent<Transform>().rotation.y += (Mathf.Deg2Rad * 120);
+        }
+    }
+    public void SpinDec()
+    {
+        if (spinner)
+        {
+            tiltAngle -= 120;
+            //spinner.GetComponent<Transform>().rotation.y += (Mathf.Deg2Rad * 120);
+        }
+    }
+
+    void Update()
+    {
+        // Smoothly tilts a transform towards a target rotation.
+        float tiltAroundY = tiltAngle;
+
+        Quaternion target = Quaternion.Euler(0, tiltAroundY, 0);
+
+        // Dampen towards the target rotation
+        spinner.transform.rotation = Quaternion.Slerp(spinner.transform.rotation, target, Time.deltaTime * smooth);
+    }
+
 
 }
