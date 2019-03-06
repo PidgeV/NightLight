@@ -15,7 +15,9 @@ public class InteractWithSwitch : MonoBehaviour
     [Tooltip("If true, all lights will use the first bool in the array.")]
     public float lightDelay = 0.0f;
     public bool lightsSynchronized;
+    [HideInInspector]
     public bool[] lightOnInitially;
+    [HideInInspector]
     public Light[] lights;
 
     //Animation variables
@@ -156,6 +158,7 @@ public class InteractWithSwitch : MonoBehaviour
 public class InteractWithSwitch_Editor : Editor
 {
     int arraySize = 1;
+    int lightSize = 1;
 
     public override void OnInspectorGUI()
     {
@@ -168,8 +171,42 @@ public class InteractWithSwitch_Editor : Editor
 
         DrawDefaultInspector(); // for other non-HideInInspector fields
 
+        lightSize = EditorGUILayout.IntField("Number of lights:", lightSize);
+
+        //--------------------------------------------------------------------------------------
+        //This will resize and show lights
+        #region Lights
+        if (lightSize < 1) lightSize = 1;
+
+        Light[] lightTemp = new Light[lightSize];
+        bool[] boolTemp = new bool[lightSize];
+        for (int i = 0; i < lightSize; i++)
+        {
+            if (i < script.lights.Length) lightTemp[i] = script.lights[i];
+            if (i < script.lightOnInitially.Length) boolTemp[i] = script.lightOnInitially[i];
+        }
+
+        script.lights = new Light[lightSize];
+        script.lightOnInitially = new bool[lightSize];
+
+        for (int i = 0; i < lightSize; i++)
+        {
+            if (i < lightTemp.Length) script.lights[i] = lightTemp[i];
+            if (i < boolTemp.Length) script.lightOnInitially[i] = boolTemp[i];
+        }
+
+        GUILayout.Label("Lights:");
+        if (script.lightsSynchronized) script.lightOnInitially[0] = EditorGUILayout.Toggle(script.lightOnInitially[0]);
+        for (int i = 0; i < lightSize; i++)
+        {
+            script.lights[i] = EditorGUILayout.ObjectField(script.lights[i], typeof(Light)) as Light;
+            if(!script.lightsSynchronized) script.lightOnInitially[i] = EditorGUILayout.Toggle(script.lightOnInitially[i]);
+        }
+        #endregion
+
         if (script.hasAnimation) // if bool is true, show other fields
         {
+            GUILayout.Label("\n Animator");
             arraySize = EditorGUILayout.IntField("Number of animators:", arraySize);
 
             //--------------------------------------------------------------------------------------
