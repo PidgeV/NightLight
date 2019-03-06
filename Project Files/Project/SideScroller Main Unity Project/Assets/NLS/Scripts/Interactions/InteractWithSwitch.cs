@@ -196,11 +196,11 @@ public class InteractWithSwitch_Editor : Editor
         }
 
         GUILayout.Label("Lights:");
-        if (script.lightsSynchronized) script.lightOnInitially[0] = EditorGUILayout.Toggle(script.lightOnInitially[0]);
+        if (script.lightsSynchronized) script.lightOnInitially[0] = EditorGUILayout.Toggle("Light State", script.lightOnInitially[0]);
         for (int i = 0; i < lightSize; i++)
         {
             script.lights[i] = EditorGUILayout.ObjectField(script.lights[i], typeof(Light)) as Light;
-            if(!script.lightsSynchronized) script.lightOnInitially[i] = EditorGUILayout.Toggle(script.lightOnInitially[i]);
+            if(!script.lightsSynchronized) script.lightOnInitially[i] = EditorGUILayout.Toggle("Light State", script.lightOnInitially[i]);
         }
         #endregion
 
