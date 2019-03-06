@@ -12,22 +12,27 @@ public class InteractWithSwitch : MonoBehaviour
 {
     public GameObject levelControlObject;
 
-    //Animation variables
-    [Header("Optional:")]
-    [Tooltip("This is an array of animators that will play when triggering switch")]
-    public Animator[] animator;
-    [Tooltip("The string to trigger in the animator")]
-    public string[] triggerString;
-
-    public TextMeshPro text;
-    public float transistionSpeed = 1;
-    private Color clr;
-
     [Tooltip("If true, all lights will use the first bool in the array.")]
+    public float lightDelay = 0.0f;
     public bool lightsSynchronized;
     public bool[] lightOnInitially;
     public Light[] lights;
-    public float lightDelay = 0.0f;
+
+    //Animation variables
+    [Header("Optional:")]
+
+    public TextMeshPro text;
+    [Tooltip("In seconds")]
+    public float textFadeSpeed = 1;
+    private Color clr;
+
+    public bool hasAnimation = false;
+    [HideInInspector]
+    [Tooltip("This is an array of animators that will play when triggering switch")]
+    public Animator[] animator;
+    [HideInInspector]
+    [Tooltip("The string to trigger in the animator")]
+    public string[] triggerString;
 
     private bool yennoIn = false;
     private bool fenIn = false;
@@ -56,12 +61,12 @@ public class InteractWithSwitch : MonoBehaviour
         //Increase/decrease alpha if player is inside/outside collider
         if (yennoIn || fenIn)
         {
-            if (blendValue > 0) blendValue -= transistionSpeed * Time.deltaTime;
+            if (blendValue > 0) blendValue -= textFadeSpeed * Time.deltaTime;
             else blendValue = 0;
         }
         else
         {
-            if (blendValue < 1) blendValue += transistionSpeed * Time.deltaTime;
+            if (blendValue < 1) blendValue += textFadeSpeed * Time.deltaTime;
             else blendValue = 1;
         }
 
@@ -145,30 +150,72 @@ public class InteractWithSwitch : MonoBehaviour
 }
 
 //---------------------------------------------------------------------------
-//Custom inspector if animator isn't an array
-
+//Custom inspector
 #if UNITY_EDITOR
 [CustomEditor(typeof(InteractWithSwitch))]
 public class InteractWithSwitch_Editor : Editor
 {
+    int arraySize = 1;
+
     public override void OnInspectorGUI()
     {
-        DrawDefaultInspector(); // for other non-HideInInspector fields
-
         InteractWithSwitch script = target as InteractWithSwitch;
 
-        // draw checkbox for the bool
-        //script.interactWith = EditorGUILayout.Toggle(script.interactWith);
-        if(GUILayout.Button("Switch lights"))
+        if (GUILayout.Button("Switch lights"))
         {
             script.StartCoroutine(script.ChangeLights());
         }
 
-        //if (script.hasAnimation) // if bool is true, show other fields
+        DrawDefaultInspector(); // for other non-HideInInspector fields
+
+        if (script.hasAnimation) // if bool is true, show other fields
         {
-            //script.focusDuringAnim = EditorGUILayout.ObjectField("Focus during Anim: ", script.focusDuringAnim, typeof(GameObject), true) as GameObject;
-            //script.animator = EditorGUILayout.ObjectField("Animator:", script.animator, typeof(Animator), true) as Animator;
-            //script.triggerString = EditorGUILayout.TextArea(script.triggerString) as string;
+            arraySize = EditorGUILayout.IntField("Number of animators:", arraySize);
+
+            //--------------------------------------------------------------------------------------
+            //This will resize and show animators
+            #region Animator
+            Animator[] animTemp = new Animator[arraySize];
+            for (int i = 0; i < arraySize; i++)
+            {
+                if (i < script.animator.Length) animTemp[i] = script.animator[i];
+            }
+
+            script.animator = new Animator[arraySize];
+            for (int i = 0; i < arraySize; i++)
+            {
+                if (i < animTemp.Length) script.animator[i] = animTemp[i];
+            }
+
+            GUILayout.Label("Animators:");
+            for (int i = 0; i < script.animator.Length; i++)
+            {
+                script.animator[i] = EditorGUILayout.ObjectField(script.animator[i], typeof(Animator)) as Animator;
+            }
+            #endregion
+
+            //--------------------------------------------------------------------------------------
+            //This will resize and show trigger strings
+            #region TriggerString
+            GUILayout.Label("Trigger Strings:");
+
+            string[] temp = new string[arraySize];
+            for (int i = 0; i < arraySize; i++)
+            {
+                if(i < script.triggerString.Length) temp[i] = script.triggerString[i];
+            }
+
+            script.triggerString = new string[arraySize];
+            for (int i = 0; i < arraySize; i++)
+            {
+                if (i < temp.Length) script.triggerString[i] = temp[i];
+            }
+
+            for (int i = 0; i < script.triggerString.Length; i++)
+            {
+                script.triggerString[i] = EditorGUILayout.TextField(script.triggerString[i]); ;
+            }
+            #endregion
         }
     }
 }
