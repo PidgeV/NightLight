@@ -42,6 +42,8 @@ public class InteractWithSwitch : MonoBehaviour
     private float blendValue = 0;
     private float triggerDelay = 0;
 
+    public AudioSource audioSource;
+
     // Use this for initialization
     void Start()
     {
@@ -81,6 +83,7 @@ public class InteractWithSwitch : MonoBehaviour
             {
                 StartCoroutine(ChangeLights());
                 triggerDelay = 0;
+                audioSource.Play();    
             }
         }
         else if (Input.GetButtonDown("Activate") && !levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && fenIn)
@@ -89,6 +92,7 @@ public class InteractWithSwitch : MonoBehaviour
             {
                 StartCoroutine(ChangeLights());
                 triggerDelay = 0;
+                audioSource.Play();
             }
         }
     }

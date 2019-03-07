@@ -20,6 +20,8 @@ public class FinishLevel : MonoBehaviour {
     public float smooth = 5.0f;
     float tiltAngle = 0.0f;
 
+    public GameObject otherEnd;
+    public bool atEnd;
 
     private void OnTriggerStay(Collider other)
     {
@@ -28,9 +30,11 @@ public class FinishLevel : MonoBehaviour {
         //When the timer reaches the set delay time, load the specefied scene.
         if (loadTimer >= timeBeforeLoad)
         {
+            if (other.tag == "Player" || other.tag == "Player2")
+                atEnd = true;
             lastLevel = sceneIndex == maxIndex ? true : false;
 
-            if (other.tag == "Player" && !lastLevel)
+            if (atEnd && otherEnd.GetComponent<FinishLevel>().atEnd == true && !lastLevel)
             {
                 try
                 {
@@ -47,6 +51,12 @@ public class FinishLevel : MonoBehaviour {
             }
 
         }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.tag == "Player" || other.tag == "Player2")
+            atEnd = false;
     }
 
     public void GoToLevel()
