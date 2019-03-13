@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: dfea5d5638fb5514a826ff8572bcccd8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Roof Pnl 01
+    100002: Roof Pnl 02
+    100004: Train 02 Door
+    100006: Train 02 Door 1
+    100008: Train 02 Door 2
+    100010: Train 02 Door 3
+    100012: Train 02 Exit Platform
+    100014: Train 02 Interior
+    100016: Train 02 Interior 1
+    100018: Train 02 Interior 2
+    100020: Train 02 Interior 3
+    100022: Train 02 Interior 4
+    100024: Train 02 Roof
+    100026: Train 02 Roof Vents
+    100028: Train 02 Wheels
+    100030: //RootNode
+    100032: Wall
+    400000: Roof Pnl 01
+    400002: Roof Pnl 02
+    400004: Train 02 Door
+    400006: Train 02 Door 1
+    400008: Train 02 Door 2
+    400010: Train 02 Door 3
+    400012: Train 02 Exit Platform
+    400014: Train 02 Interior
+    400016: Train 02 Interior 1
+    400018: Train 02 Interior 2
+    400020: Train 02 Interior 3
+    400022: Train 02 Interior 4
+    400024: Train 02 Roof
+    400026: Train 02 Roof Vents
+    400028: Train 02 Wheels
+    400030: //RootNode
+    400032: Wall
+    2100000: FloorWood
+    2100002: Metal
+    2100004: Wood
+    2100006: SecondWood
+    2100008: Leather
+    2100010: WallMetal
+    2100012: WheelMetal
+    2100014: RoofMetal
+    2100016: No Name
+    2300000: Roof Pnl 01
+    2300002: Roof Pnl 02
+    2300004: Train 02 Door
+    2300006: Train 02 Door 1
+    2300008: Train 02 Door 2
+    2300010: Train 02 Door 3
+    2300012: Train 02 Exit Platform
+    2300014: Train 02 Interior
+    2300016: Train 02 Interior 1
+    2300018: Train 02 Interior 2
+    2300020: Train 02 Interior 3
+    2300022: Train 02 Interior 4
+    2300024: Train 02 Roof
+    2300026: Train 02 Roof Vents
+    2300028: Train 02 Wheels
+    2300030: //RootNode
+    2300032: Wall
+    3300000: Roof Pnl 01
+    3300002: Roof Pnl 02
+    3300004: Train 02 Door
+    3300006: Train 02 Door 1
+    3300008: Train 02 Door 2
+    3300010: Train 02 Door 3
+    3300012: Train 02 Exit Platform
+    3300014: Train 02 Interior
+    3300016: Train 02 Interior 1
+    3300018: Train 02 Interior 2
+    3300020: Train 02 Interior 3
+    3300022: Train 02 Interior 4
+    3300024: Train 02 Roof
+    3300026: Train 02 Roof Vents
+    3300028: Train 02 Wheels
+    3300030: //RootNode
+    3300032: Wall
+    4300000: Train 02
+    4300002: Wall
+    4300004: Train 02 Roof Vents
+    4300006: Train 02 Wheels
+    4300008: Train 02 Roof
+    4300010: Roof Pnl 02
+    4300012: Roof Pnl 01
+    4300014: Train 02 Interior
+    4300016: Train 02 Interior
+    4300018: Train 02 Interior
+    4300020: Train 02 Interior
+    4300022: Train 02 Interior
+    4300024: Train 02 Exit Platform
+    4300026: Train 02 Door
+    4300028: Train 02 Door
+    4300030: Train 02 Door
+    4300032: Train 02 Door
+    6400000: Roof Pnl 01
+    6400002: Roof Pnl 02
+    6400004: Train 02 Door
+    6400006: Train 02 Door 1
+    6400008: Train 02 Door 2
+    6400010: Train 02 Door 3
+    6400012: Train 02 Exit Platform
+    6400014: Train 02 Interior
+    6400016: Train 02 Interior 1
+    6400018: Train 02 Interior 2
+    6400020: Train 02 Interior 3
+    6400022: Train 02 Interior 4
+    6400024: Train 02 Roof
+    6400026: Train 02 Roof Vents
+    6400028: Train 02 Wheels
+    6400030: //RootNode
+    6400032: Wall
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorWood
+    second: {fileID: 2100000, guid: 4630c7d56466ab84d8cd44301cdba8c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather
+    second: {fileID: 2100000, guid: 9cc9d9a556942a24290b6fab257abe98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 100362c1b18bf9946b017e40503e09b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMetal
+    second: {fileID: 2100000, guid: 740a94436b0b32940aba85e9be23cf66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondWood
+    second: {fileID: 2100000, guid: 0b2473ab04c994c43a909e11363024c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallMetal
+    second: {fileID: 2100000, guid: ab12fab3cfcca8c48a65e50cd1be13fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WheelMetal
+    second: {fileID: 2100000, guid: d87f9716bb2c32240b7cbb7fc13dcddd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: a330c3b02d264b2449362dcef6e9ed69, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 12
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
