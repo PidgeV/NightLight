@@ -5,7 +5,10 @@ using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
 
-public class FinishLevel : MonoBehaviour {
+public class FinishLevel : MonoBehaviour
+{
+    private GameObject otherPlayer;
+
     public bool lastLevel = false;
     public float loadTimer = 0;
     [Header("This is the index for the scene you wish to load, see File->Build Settings")]
@@ -21,7 +24,7 @@ public class FinishLevel : MonoBehaviour {
     float tiltAngle = 0.0f;
 
     public GameObject otherEnd;
-    public bool atEnd;
+    public bool atEnd = false;
 
     private void OnTriggerStay(Collider other)
     {
@@ -30,11 +33,19 @@ public class FinishLevel : MonoBehaviour {
         //When the timer reaches the set delay time, load the specefied scene.
         if (loadTimer >= timeBeforeLoad)
         {
-            if (other.tag == "Player" || other.tag == "Player2")
+            if (other.tag == "Player" )
+            {
                 atEnd = true;
+                otherPlayer = GameObject.FindGameObjectWithTag("Player2");
+            }
+            else if(other.tag == "Player2")
+            {
+                atEnd = true;
+                otherPlayer = GameObject.FindGameObjectWithTag("Player");
+            }
             lastLevel = sceneIndex == maxIndex ? true : false;
 
-            if (atEnd && otherEnd.GetComponent<FinishLevel>().atEnd == true && !lastLevel)
+            if (atEnd && otherEnd.GetComponent<FinishLevel>().atEnd)
             {
                 try
                 {
@@ -48,6 +59,10 @@ public class FinishLevel : MonoBehaviour {
             else if (other.tag == "Player" && lastLevel)
             {
                 //Game's over, print out neccessary win screen
+            }
+            else
+            {
+                //loadTimer = 0;
             }
 
         }
