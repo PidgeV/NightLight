@@ -11,7 +11,7 @@ public class SwitchCharacterControl : MonoBehaviour {
     CameraFollow cFollow;
 
     PlayerMove p1Move;
-    PlayerMove p2Move;
+    PlayerMove2 p2Move;
 
     public bool onPlayer1 = true;
 
@@ -21,7 +21,7 @@ public class SwitchCharacterControl : MonoBehaviour {
         if (fen == null) fen = GameObject.FindGameObjectWithTag("Player2");
 
         p1Move = yenno.GetComponent<PlayerMove>();
-        p2Move = fen.GetComponent<PlayerMove>();
+        p2Move = fen.GetComponent<PlayerMove2>();
         mainCamera = GameObject.FindGameObjectWithTag("MainCamera");
         cFollow = mainCamera.GetComponent<CameraFollow>();
 
@@ -40,17 +40,17 @@ public class SwitchCharacterControl : MonoBehaviour {
 
     public void SwitchControl()
     {
-        p1Move.enabled = !p1Move.enabled;
-        p2Move.enabled = !p2Move.enabled;
         onPlayer1 = !onPlayer1;
 
         if (onPlayer1)
         {
             cFollow.target = yenno.transform;
             fen.GetComponent<Rigidbody>().Sleep();
-            p2Move.enabled = false;
-            p2Move.animator.enabled = false;
-
+            //p2Move.enabled = false;
+            //p2Move.animator.enabled = false;
+            p2Move.animator.SetTrigger("Idle");
+            p2Move.gameObject.GetComponent<CharacterMotor>().DistanceToTarget = 0;
+            
             p1Move.enabled = true;
             p1Move.animator.enabled = true;
 
@@ -59,8 +59,11 @@ public class SwitchCharacterControl : MonoBehaviour {
         {
             cFollow.target = fen.transform;
             yenno.GetComponent<Rigidbody>().Sleep();
-            p1Move.enabled = false;
-            p1Move.animator.enabled = false;
+            //p1Move.enabled = false;
+            //p1Move.animator.enabled = false;
+            p1Move.animator.SetTrigger("Idle");
+            p1Move.gameObject.GetComponent<CharacterMotor>().DistanceToTarget = 0;
+            //p1Move.direction = new Vector3(0, 0, 0);
 
             p2Move.enabled = true;
             p2Move.animator.enabled = true;

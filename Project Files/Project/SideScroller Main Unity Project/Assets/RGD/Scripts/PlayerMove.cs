@@ -90,47 +90,53 @@ public class PlayerMove : MonoBehaviour
 	{	
 		//stops rigidbody "sleeping" if we don't move, which would stop collision detection
 		rigid.WakeUp();
-		//handle jumping
-		JumpCalculations ();
-		//adjust movement values if we're in the air or on the ground
-		curAccel = (grounded) ? accel : airAccel;
-		curDecel = (grounded) ? decel : airDecel;
-		curRotateSpeed = (grounded) ? rotateSpeed : airRotateSpeed;
-				
-		//get movement axis relative to camera
-		screenMovementSpace = Quaternion.Euler (0, mainCam.eulerAngles.y, 0);
-		screenMovementForward = screenMovementSpace * Vector3.forward;
-		screenMovementRight = screenMovementSpace * Vector3.right;
-		
-		//get movement input, set direction to move in
-		float h = Input.GetAxisRaw ("Horizontal");
-		float v = Input.GetAxisRaw ("Vertical");
-		
-		//only apply vertical input to movemement, if player is not sidescroller
-		if(!sidescroller)
-			direction = (screenMovementForward * v) + (screenMovementRight * h);
-		else
-			direction = Vector3.right * h;
-		moveDirection = transform.position + direction;
+        if (GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
+        {
+            //handle jumping
+            JumpCalculations();
+            //adjust movement values if we're in the air or on the ground
+            curAccel = (grounded) ? accel : airAccel;
+            curDecel = (grounded) ? decel : airDecel;
+            curRotateSpeed = (grounded) ? rotateSpeed : airRotateSpeed;
+
+            //get movement axis relative to camera
+            screenMovementSpace = Quaternion.Euler(0, mainCam.eulerAngles.y, 0);
+            screenMovementForward = screenMovementSpace * Vector3.forward;
+            screenMovementRight = screenMovementSpace * Vector3.right;
+
+            //get movement input, set direction to move in
+            float h = Input.GetAxisRaw("Horizontal");
+            float v = Input.GetAxisRaw("Vertical");
+
+            //only apply vertical input to movemement, if player is not sidescroller
+            if (!sidescroller)
+                direction = (screenMovementForward * v) + (screenMovementRight * h);
+            else
+                direction = Vector3.right * h;
+            moveDirection = transform.position + direction;
+        }
 	}
 	
 	//apply correct player movement (fixedUpdate for physics calculations)
 	void FixedUpdate() 
 	{
-		//are we grounded
-		grounded = IsGrounded ();
-		//move, rotate, manage speed
-		characterMotor.MoveTo (moveDirection, curAccel, 0.7f, true);
-		if (rotateSpeed != 0 && direction.magnitude != 0)
-			characterMotor.RotateToDirection (moveDirection , curRotateSpeed * 5, true);
-		characterMotor.ManageSpeed (curDecel, maxSpeed + movingObjSpeed.magnitude, true);
-		//set animation values
-		if(animator)
-		{
-			animator.SetFloat("DistanceToTarget", characterMotor.DistanceToTarget);
-			animator.SetBool("Grounded", grounded);
-			animator.SetFloat("YVelocity", GetComponent<Rigidbody>().velocity.y);
-		}
+        if (GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
+        {
+            //are we grounded
+            grounded = IsGrounded();
+            //move, rotate, manage speed
+            characterMotor.MoveTo(moveDirection, curAccel, 0.7f, true);
+            if (rotateSpeed != 0 && direction.magnitude != 0)
+                characterMotor.RotateToDirection(moveDirection, curRotateSpeed * 5, true);
+            characterMotor.ManageSpeed(curDecel, maxSpeed + movingObjSpeed.magnitude, true);
+            //set animation values
+            if (animator)
+            {
+                animator.SetFloat("DistanceToTarget", characterMotor.DistanceToTarget);
+                animator.SetBool("Grounded", grounded);
+                animator.SetFloat("YVelocity", GetComponent<Rigidbody>().velocity.y);
+            }
+        }
 	}
 	
 	//prevents rigidbody from sliding down slight slopes (read notes in characterMotor class for more info on friction)
