@@ -14,10 +14,7 @@ public class InteractWithSwitch : MonoBehaviour
 
     [Tooltip("If true, all lights will use the first bool in the array.")]
     public float lightDelay = 0.0f;
-    public bool lightsSynchronized;
-    [HideInInspector]
     public bool[] lightOnInitially;
-    [HideInInspector]
     public Light[] lights;
 
     //Animation variables
@@ -53,8 +50,7 @@ public class InteractWithSwitch : MonoBehaviour
 
         for (int i = 0; i < lights.Length; i++)
         {
-            if (lights[i] != null && lightsSynchronized) lights[i].enabled = lightOnInitially[0];
-            else if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
+            lights[i].enabled = lightOnInitially[i];
         }
     }
 
@@ -83,7 +79,7 @@ public class InteractWithSwitch : MonoBehaviour
             {
                 StartCoroutine(ChangeLights());
                 triggerDelay = 0;
-                audioSource.Play();    
+                audioSource.Play();
             }
         }
         else if (Input.GetButtonDown("Activate") && !levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1 && fenIn)
@@ -92,7 +88,7 @@ public class InteractWithSwitch : MonoBehaviour
             {
                 StartCoroutine(ChangeLights());
                 triggerDelay = 0;
-                audioSource.Play();
+                if(audioSource != null) audioSource.Play();
             }
         }
     }
@@ -102,22 +98,9 @@ public class InteractWithSwitch : MonoBehaviour
         yield return new WaitForSeconds(lightDelay);
 
         //Change lights
-        if (lightsSynchronized)
-        {
-            lightOnInitially[0] = !lightOnInitially[0];
-        }
-
         for (int i = 0; i < lights.Length; i++)
         {
-            if (!lightsSynchronized)
-            {
-                lightOnInitially[i] = !lightOnInitially[i];
-                if (lights[i] != null) lights[i].enabled = lightOnInitially[i];
-            }
-            else
-            {
-                if (lights[i] != null) lights[i].enabled = lightOnInitially[0];
-            }
+            if (lights[i] != null) lights[i].enabled = !lights[i].enabled;
         }
 
         //Run animations
@@ -179,34 +162,34 @@ public class InteractWithSwitch_Editor : Editor
 
         //--------------------------------------------------------------------------------------
         //This will resize and show lights
-        #region Lights
-        if (lightSize < 1) lightSize = 1;
+        //#region Lights
+        //if (lightSize < 1) lightSize = 1;
 
-        Light[] lightTemp = new Light[lightSize];
-        bool[] boolTemp = new bool[lightSize];
-        for (int i = 0; i < lightSize; i++)
-        {
-            if (i < script.lights.Length) lightTemp[i] = script.lights[i];
-            if (i < script.lightOnInitially.Length) boolTemp[i] = script.lightOnInitially[i];
-        }
+        //Light[] lightTemp = new Light[lightSize];
+        //bool[] boolTemp = new bool[lightSize];
+        //for (int i = 0; i < lightSize; i++)
+        //{
+        //    if (i < script.lights.Length) lightTemp[i] = script.lights[i];
+        //    if (i < script.lightOnInitially.Length) boolTemp[i] = script.lightOnInitially[i];
+        //}
 
-        script.lights = new Light[lightSize];
-        script.lightOnInitially = new bool[lightSize];
+        //script.lights = new Light[lightSize];
+        //script.lightOnInitially = new bool[lightSize];
 
-        for (int i = 0; i < lightSize; i++)
-        {
-            if (i < lightTemp.Length) script.lights[i] = lightTemp[i];
-            if (i < boolTemp.Length) script.lightOnInitially[i] = boolTemp[i];
-        }
+        //for (int i = 0; i < lightSize; i++)
+        //{
+        //    if (i < lightTemp.Length) script.lights[i] = lightTemp[i];
+        //    if (i < boolTemp.Length) script.lightOnInitially[i] = boolTemp[i];
+        //}
 
-        GUILayout.Label("Lights:");
-        if (script.lightsSynchronized) script.lightOnInitially[0] = EditorGUILayout.Toggle("Light State", script.lightOnInitially[0]);
-        for (int i = 0; i < lightSize; i++)
-        {
-            script.lights[i] = EditorGUILayout.ObjectField(script.lights[i], typeof(Light)) as Light;
-            if(!script.lightsSynchronized) script.lightOnInitially[i] = EditorGUILayout.Toggle("Light State", script.lightOnInitially[i]);
-        }
-        #endregion
+        //GUILayout.Label("Lights:");
+        //if (script.lightsSynchronized) script.lightOnInitially[0] = EditorGUILayout.Toggle("Light State", script.lightOnInitially[0]);
+        //for (int i = 0; i < lightSize; i++)
+        //{
+        //    script.lights[i] = EditorGUILayout.ObjectField(script.lights[i], typeof(Light)) as Light;
+        //    if(!script.lightsSynchronized) script.lightOnInitially[i] = EditorGUILayout.Toggle("Light State", script.lightOnInitially[i]);
+        //}
+        //#endregion
 
         if (script.hasAnimation) // if bool is true, show other fields
         {
@@ -243,7 +226,7 @@ public class InteractWithSwitch_Editor : Editor
             string[] temp = new string[arraySize];
             for (int i = 0; i < arraySize; i++)
             {
-                if(i < script.triggerString.Length) temp[i] = script.triggerString[i];
+                if (i < script.triggerString.Length) temp[i] = script.triggerString[i];
             }
 
             script.triggerString = new string[arraySize];
