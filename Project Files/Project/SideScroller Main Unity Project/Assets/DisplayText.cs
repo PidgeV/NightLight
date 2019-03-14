@@ -6,11 +6,10 @@ using TMPro;
 [System.Serializable]
 public class DisplayText : MonoBehaviour {
 
-    public GameObject levelControlObject;
-
     public TextMeshPro text;
     [Tooltip("In seconds")]
     public float textFadeSpeed = 1;
+    public float delay = 0.0f;
     private Color clr;
 
     private bool yennoIn = false;
@@ -32,15 +31,22 @@ public class DisplayText : MonoBehaviour {
     {
         triggerDelay += Time.deltaTime;
         //Increase/decrease alpha if player is inside/outside collider
-        if (yennoIn || fenIn)
+        if (triggerDelay >= delay)
         {
-            if (blendValue > 0) blendValue -= textFadeSpeed * Time.deltaTime;
-            else blendValue = 0;
+            if (yennoIn || fenIn)
+            {
+                if (blendValue > 0) blendValue -= textFadeSpeed * Time.deltaTime;
+                else blendValue = 0;
+            }
+            else
+            {
+                if (blendValue < 1) blendValue += textFadeSpeed * Time.deltaTime;
+                else blendValue = 1;
+            }
         }
-        else
+        else if(triggerDelay < 0)
         {
-            if (blendValue < 1) blendValue += textFadeSpeed * Time.deltaTime;
-            else blendValue = 1;
+            triggerDelay = 0;
         }
 
         if (text != null) text.faceColor = Color.Lerp(text.color, clr, blendValue);  //Change text color if present  
@@ -52,7 +58,7 @@ public class DisplayText : MonoBehaviour {
         {
             yennoIn = true;
         }
-        else if (other.tag == "Player2" && !levelControlObject.GetComponent<SwitchCharacterControl>().onPlayer1)
+        else if (other.tag == "Player2" && !GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
         {
             fenIn = true;
         }
