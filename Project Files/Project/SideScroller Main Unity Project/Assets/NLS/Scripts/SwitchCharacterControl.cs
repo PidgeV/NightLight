@@ -49,7 +49,7 @@ public class SwitchCharacterControl : MonoBehaviour {
             //p2Move.enabled = false;
             //p2Move.animator.enabled = false;
             p2Move.animator.SetTrigger("Idle");
-            p2Move.gameObject.GetComponent<CharacterMotor>().DistanceToTarget = 0;
+            p2Move.gameObject.GetComponent<CharacterMotor>().GoToIdle(true);
             
             p1Move.enabled = true;
             p1Move.animator.enabled = true;
@@ -62,7 +62,7 @@ public class SwitchCharacterControl : MonoBehaviour {
             //p1Move.enabled = false;
             //p1Move.animator.enabled = false;
             p1Move.animator.SetTrigger("Idle");
-            p1Move.gameObject.GetComponent<CharacterMotor>().DistanceToTarget = 0;
+            p1Move.gameObject.GetComponent<CharacterMotor>().GoToIdle(true);
             //p1Move.direction = new Vector3(0, 0, 0);
 
             p2Move.enabled = true;

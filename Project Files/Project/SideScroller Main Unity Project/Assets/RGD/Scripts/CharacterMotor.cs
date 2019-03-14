@@ -35,9 +35,15 @@ public class CharacterMotor : MonoBehaviour
 			Debug.LogWarning("No physics material found for CharacterMotor, a frictionless one has been created and assigned", transform);
 		}
 	}
-	
-	//move rigidbody to a target and return the bool "have we arrived?"
-	public bool MoveTo(Vector3 destination, float acceleration, float stopDistance, bool ignoreY)
+
+    public void GoToIdle(bool ignoreY)
+    {
+        MoveTo(transform.position, 10, 0.5f, ignoreY);
+        DistanceToTarget = 0;
+    }
+
+    //move rigidbody to a target and return the bool "have we arrived?"
+    public bool MoveTo(Vector3 destination, float acceleration, float stopDistance, bool ignoreY)
 	{
 		Vector3 relativePos = (destination - transform.position);
 		if(ignoreY)

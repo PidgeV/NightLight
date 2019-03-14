@@ -116,28 +116,29 @@ public class PlayerMove : MonoBehaviour
             moveDirection = transform.position + direction;
         }
 	}
-	
-	//apply correct player movement (fixedUpdate for physics calculations)
-	void FixedUpdate() 
-	{
+
+    //apply correct player movement (fixedUpdate for physics calculations)
+    void FixedUpdate()
+    {
+        //are we grounded
+        grounded = IsGrounded();
         if (GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
         {
-            //are we grounded
-            grounded = IsGrounded();
             //move, rotate, manage speed
             characterMotor.MoveTo(moveDirection, curAccel, 0.7f, true);
             if (rotateSpeed != 0 && direction.magnitude != 0)
                 characterMotor.RotateToDirection(moveDirection, curRotateSpeed * 5, true);
             characterMotor.ManageSpeed(curDecel, maxSpeed + movingObjSpeed.magnitude, true);
-            //set animation values
-            if (animator)
-            {
-                animator.SetFloat("DistanceToTarget", characterMotor.DistanceToTarget);
-                animator.SetBool("Grounded", grounded);
-                animator.SetFloat("YVelocity", GetComponent<Rigidbody>().velocity.y);
-            }
         }
-	}
+        //set animation values
+        if (animator)
+        {
+            animator.SetFloat("DistanceToTarget", characterMotor.DistanceToTarget);
+            animator.SetBool("Grounded", grounded);
+            animator.SetFloat("YVelocity", GetComponent<Rigidbody>().velocity.y);
+        }
+
+    }
 	
 	//prevents rigidbody from sliding down slight slopes (read notes in characterMotor class for more info on friction)
 	void OnCollisionStay(Collision other)
