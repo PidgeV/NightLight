@@ -29,14 +29,17 @@ public class TestAllLights : MonoBehaviour
     {
         for (int i = 0; i < lights.Length; i++)
         {
-            if (lights[i].GetComponent<BlakeTestRays_DblDmg>().rayHitP1)
+            if (lights[i].GetComponent<BlakeTestRays_DblDmg>() != null)
             {
-                lightHitCountYenno++;
-            }
+                if (lights[i].GetComponent<BlakeTestRays_DblDmg>().rayHitP1)
+                {
+                    lightHitCountYenno++;
+                }
 
-            if (lights[i].GetComponent<BlakeTestRays_DblDmg>().rayHitP2)
-            {
-                lightHitCountFen++;
+                if (lights[i].GetComponent<BlakeTestRays_DblDmg>().rayHitP2)
+                {
+                    lightHitCountFen++;
+                }
             }
         }
 
