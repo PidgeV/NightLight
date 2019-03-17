@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -346,14 +346,14 @@ MonoBehaviour:
     height: 629
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 0
-  lastFramingTime: 1476.2949197
+  lastFramingTime: 256.3091647
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.9406433, y: -59.98627, z: 107.576614}
+    m_Target: {x: 91.6591, y: 50.13387, z: 47.077736}
     speed: 2
-    m_Value: {x: -1.9406433, y: -59.98627, z: 107.576614}
+    m_Value: {x: 91.6591, y: 50.13387, z: 47.077736}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -381,13 +381,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.31078106, y: 0.1860945, z: -0.062212884, w: 0.9300362}
+    m_Target: {x: -0.26932728, y: -0.2592288, z: 0.0755622, w: -0.9244556}
     speed: 2
-    m_Value: {x: 0.31077272, y: 0.1860895, z: -0.062211215, w: 0.9300112}
+    m_Value: {x: -0.2693186, y: -0.25922045, z: 0.07555977, w: -0.92442584}
   m_Size:
-    m_Target: 170.2598
+    m_Target: 147.86748
     speed: 2
-    m_Value: 170.2598
+    m_Value: 147.86748
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -622,11 +622,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/NLS/Materials
+    - Assets/NLS/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets/NLS/Materials
+  - Assets/NLS/Prefabs
   m_LastFoldersGridSize: 65
   m_LastProjectPath: D:\Users\Nathe\OneDrive\Documents\GitHub\NightLight\Project Files\Project\SideScroller
     Main Unity Project
@@ -634,9 +634,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 113}
-    m_SelectedIDs: a41a0000
-    m_LastClickedID: 6820
-    m_ExpandedIDs: 000000005a0d0000900e00008a13000076150000e2190000861b0000de1d0000901e0000d8290000c82a00006c5f00006e5f000000ca9a3b
+    m_SelectedIDs: 6c2b0000
+    m_LastClickedID: 11116
+    m_ExpandedIDs: 000000005a0d0000920e0000ec130000ee130000e4150000681a00000c1c0000781e00002c1f00007c2a00006c2b0000fa6e0000fc6e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -664,7 +664,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005a0d0000900e0000b81000008a1300009c13000076150000e2190000861b0000de1d0000901e0000d82900006c5f00006e5f0000
+    m_ExpandedIDs: 000000005a0d0000920e0000ee130000e4150000681a00000c1c0000781e00002c1f00007c2a00006c2b0000fa6e0000fc6e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -770,10 +770,10 @@ MonoBehaviour:
     height: 926
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 147}
-    m_SelectedIDs: 34110000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 9a8bf6ffaa8bf6ffb88bf6ffdc8bf6ff3457f8ff7457f8ff7857f8ff7c57f8ffcc57f8ffd657f8ff2658f8ff3058f8ff5a58f8ff6458f8ffa058f8ff0ecbfcffd2fbffff0000000020330000
+    m_ExpandedIDs: fcc7feffd2fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -792,7 +792,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
   m_ExpandedScenes:
-  - Scraps Level Slums
+  - Scraps Level Station
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 1
@@ -867,7 +867,7 @@ MonoBehaviour:
   m_Script: {fileID: -1756419018, guid: e98d45d69e2c4936a7382af00fd45e58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 143, y: 29}
+  m_MinSize: {x: 146, y: 31}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: ProBuilder
