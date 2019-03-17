@@ -63,8 +63,8 @@ public class FocusCamera : MonoBehaviour {
                 else if (!GetComponent<SwitchCharacterControl>().onPlayer1)
                 {
                     player2.GetComponent<Rigidbody>().Sleep();
-                    player2.GetComponent<PlayerMove>().enabled = false;
-                    player2.GetComponent<PlayerMove>().animator.enabled = false;
+                    player2.GetComponent<PlayerMove2>().enabled = false;
+                    player2.GetComponent<PlayerMove2>().animator.enabled = false;
                 }
                 cFollow.target = focuses[segmentOfArray].transform;
                 timeFocused = 0.0f;
