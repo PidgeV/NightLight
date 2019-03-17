@@ -150,6 +150,7 @@
     <Compile Include="Assets\NLS\Scripts\Triggers\TriggerFocusClick.cs" />
     <Compile Include="Assets\NLS\Scripts\Triggers\TriggerLight.cs" />
     <Compile Include="Assets\NLS\Scripts\Triggers\TriggerMeshFade.cs" />
+    <Compile Include="Assets\NLS\Scripts\Triggers\TriggerMeshFadeIn.cs" />
     <Compile Include="Assets\NLS\Scripts\Triggers\TriggerTeleport.cs" />
     <Compile Include="Assets\RGD\Misc\DemoTextFade.cs" />
     <Compile Include="Assets\RGD\Scripts\Camera2DFollow.cs" />
