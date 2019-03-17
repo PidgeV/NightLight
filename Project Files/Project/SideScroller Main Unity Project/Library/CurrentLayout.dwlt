@@ -107,8 +107,8 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 709, y: 492}
-  m_MaxSize: {x: 18004, y: 14042}
+  m_MinSize: {x: 707, y: 492}
+  m_MaxSize: {x: 18002, y: 14042}
   vertical: 0
   controlID: 28
 --- !u!114 &6
@@ -232,8 +232,8 @@ MonoBehaviour:
     y: 0
     width: 370
     height: 947
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -346,14 +346,14 @@ MonoBehaviour:
     height: 629
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 0
-  lastFramingTime: 670.4006949
+  lastFramingTime: 112.34298299999999
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 49.437355, y: 29.981956, z: 65.872635}
+    m_Target: {x: 51.3438, y: 13.071774, z: 77.96345}
     speed: 2
-    m_Value: {x: 49.437355, y: 29.981956, z: 65.872635}
+    m_Value: {x: 51.3438, y: 13.071774, z: 77.96345}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -381,13 +381,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.2625542, y: -0.031251125, z: 0.008533864, w: -0.96437377}
+    m_Target: {x: -0.25067362, y: -0.0560086, z: 0.014554535, w: -0.9663423}
     speed: 2
-    m_Value: {x: -0.26255408, y: -0.03125111, z: 0.008533861, w: -0.9643733}
+    m_Value: {x: -0.2506732, y: -0.056008507, z: 0.014554511, w: -0.96634066}
   m_Size:
-    m_Target: 243.18571
+    m_Target: 221.9187
     speed: 2
-    m_Value: 243.18571
+    m_Value: 221.9187
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -622,11 +622,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/NLS/Prefabs/Interactions
+    - Assets/NLS/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 50
   m_LastFolders:
-  - Assets/NLS/Prefabs/Interactions
+  - Assets/NLS/Prefabs
   m_LastFoldersGridSize: 50
   m_LastProjectPath: D:\Users\Nathe\OneDrive\Documents\GitHub\NightLight\Project Files\Project\SideScroller
     Main Unity Project
@@ -634,9 +634,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 77}
-    m_SelectedIDs: b0190000
-    m_LastClickedID: 6576
-    m_ExpandedIDs: 00000000580d00008e0e0000b6100000881300009a1300006a150000d61900007a1b0000d21d0000841e0000cc290000bc2a0000d06d0000d26d000000ca9a3b
+    m_SelectedIDs: be2a0000
+    m_LastClickedID: 10942
+    m_ExpandedIDs: 000000005a0d0000900e0000b81000008a1300009c1300006c150000d81900007c1b0000d41d0000861e0000ce290000be2a0000dc6d0000de6d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -664,7 +664,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000580d00008e0e0000b6100000881300009a1300006a150000d6190000981a00007a1b0000d21d0000841e0000a0290000cc290000bc2a0000d06d0000d26d0000
+    m_ExpandedIDs: 000000005a0d0000900e0000b81000008a1300009c1300006c150000d81900007c1b0000d41d0000861e0000ce290000be2a0000dc6d0000de6d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -691,7 +691,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 426e00006e530000fa470000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -771,9 +771,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7ee6ffff
-    m_LastClickedID: -6530
-    m_ExpandedIDs: 9287fdff9487fdff427dfeff447dfeff5cdbffffd2fbffff00000000
+    m_SelectedIDs: 5e390000
+    m_LastClickedID: 14686
+    m_ExpandedIDs: 54dbffffd2fbffff00000000d03400005e390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
