@@ -127,6 +127,7 @@
     <Compile Include="Assets\Downloaded\Aura\Structs\VolumeInjectionShape.cs" />
     <Compile Include="Assets\Downloaded\Aura\Structs\VolumeLevelsData.cs" />
     <Compile Include="Assets\Downloaded\Aura\Structs\VolumeTextureData.cs" />
+    <Compile Include="Assets\FadeParticlesWithHealth.cs" />
     <Compile Include="Assets\NLS\Scripts\Depreciated\AutoConnectJoint.cs" />
     <Compile Include="Assets\NLS\Scripts\Depreciated\BeaLight.cs" />
     <Compile Include="Assets\NLS\Scripts\Elevator.cs" />
