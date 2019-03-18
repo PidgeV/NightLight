@@ -6,7 +6,6 @@ using UnityEngine;
 public class FocusCamera : MonoBehaviour {
     [Header("No more than one of these can be present in a level.")]
     [Header("Put in master control entity.")]
-    public int foo;
     public GameObject player1;
     public GameObject player2;
     public GameObject[] focuses;
@@ -36,8 +35,8 @@ public class FocusCamera : MonoBehaviour {
             else if (!GetComponent<SwitchCharacterControl>().onPlayer1)
             {
                 cFollow.target = player2.transform;
-                player2.GetComponent<PlayerMove>().enabled = true;
-                player2.GetComponent<PlayerMove>().animator.enabled = true;
+                player2.GetComponent<PlayerMove2>().enabled = true;
+                player2.GetComponent<PlayerMove2>().animator.enabled = true;
             }
             focusing = false;
         }
