@@ -11,6 +11,7 @@ ModelImporter:
     2300000: Box018_Box018
     3300000: Box018_Box018
     4300000: Box018_Box018
+    6400000: Box018_Box018
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -44,13 +45,13 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
