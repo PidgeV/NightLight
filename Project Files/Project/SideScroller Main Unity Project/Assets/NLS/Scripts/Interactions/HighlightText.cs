@@ -41,7 +41,7 @@ public class HighlightText : Selectable, IPointerEnterHandler, ISelectHandler
             {
                 try
                 {
-                    SceneManager.LoadScene(0);
+                    SceneManager.LoadScene(0);  // loads in main menu
                 }
                 catch (System.Exception e)
                 {
