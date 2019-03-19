@@ -6,7 +6,9 @@ public class MoveTrain : MonoBehaviour
 {
     private Vector3 targetPosition;
     private float origin;
+    private bool triggered = false;
 
+    public GameObject objectToMove;
     public float speed = 0.1f;
     public float maxDis = 0;
     public float minDis = 0;
@@ -14,21 +16,37 @@ public class MoveTrain : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        targetPosition = this.gameObject.transform.position;
-        origin = this.gameObject.transform.position.x;
+        targetPosition = objectToMove.transform.position;
+        origin = objectToMove.transform.position.x;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.E))
-            if (this.gameObject.transform.position.x <= origin + maxDis)
+        if (Input.GetKey(KeyCode.E) && triggered)
+            if (objectToMove.transform.position.x <= origin + maxDis)
                 targetPosition += new Vector3(speed, 0, 0);
 
-        if (Input.GetKey(KeyCode.Q))
-            if (this.gameObject.transform.position.x >= origin + minDis)
+        if (Input.GetKey(KeyCode.Q) && triggered)
+            if (objectToMove.transform.position.x >= origin + minDis)
                 targetPosition += new Vector3(-speed, 0, 0);
 
-        this.gameObject.transform.position = Vector3.Lerp(this.gameObject.transform.position, targetPosition, speed);
+        objectToMove.transform.position = Vector3.Lerp(objectToMove.transform.position, targetPosition, speed);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.tag == "Player")
+        {
+            triggered = true;
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.tag == "Player")
+        {
+            triggered = false;
+        }
     }
 }
