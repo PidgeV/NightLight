@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 
 public class TriggerFocusClick : MonoBehaviour {
+    public GameObject lookAt;
     TextMeshPro text;
     private Color clr;
 
@@ -54,9 +55,18 @@ public class TriggerFocusClick : MonoBehaviour {
         {
             if (!triggered)
             {
-                GameObject.FindGameObjectWithTag("LevelControl").GetComponent<FocusCamera>().TriggerSwitch(ToTrigger);
-                if (!Replay)
-                    triggered = true;
+                if (lookAt != null)
+                {
+                    GameObject.FindGameObjectWithTag("LevelControl").GetComponent<FocusCamera>().TriggerSwitch(lookAt);
+                    if (!Replay)
+                        triggered = true;
+                }
+                else
+                {
+                    GameObject.FindGameObjectWithTag("LevelControl").GetComponent<FocusCamera>().TriggerSwitch(ToTrigger);
+                    if (!Replay)
+                        triggered = true;
+                }
             }
         }
     }
