@@ -9,23 +9,26 @@ using UnityEngine;
 public class RotateObject : MonoBehaviour {
     public float degreesPerSecond = 30;
     public bool rotateConstantly;
-
+    private PauseMenu shouldRotate;
     private int rotationDirection;
 	// Use this for initialization
 	void Start () {
-		
+        shouldRotate = GameObject.FindGameObjectWithTag("LevelControl").GetComponent<PauseMenu>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
-        if(rotateConstantly)
+
+        if (!shouldRotate.isPaused)
         {
-            transform.Rotate(Vector3.down, degreesPerSecond * Mathf.PI / 180);
-        }
-        else
-        {
-            transform.Rotate(Vector3.down, (degreesPerSecond * Mathf.PI / 180) * rotationDirection);
+            if (rotateConstantly)
+            {
+                transform.Rotate(Vector3.down, degreesPerSecond * Mathf.PI / 180);
+            }
+            else
+            {
+                transform.Rotate(Vector3.down, (degreesPerSecond * Mathf.PI / 180) * rotationDirection);
+            }
         }
 	}
 
