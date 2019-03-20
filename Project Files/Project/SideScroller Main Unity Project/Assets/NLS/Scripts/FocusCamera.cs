@@ -22,6 +22,9 @@ public class FocusCamera : MonoBehaviour
     {
         mainCamera = GameObject.FindGameObjectWithTag("MainCamera");
         cFollow = mainCamera.GetComponent<CameraFollow>();
+
+        if (player1 == null) player1 = GameObject.FindGameObjectWithTag("Player");
+        if (player2 == null) player2 = GameObject.FindGameObjectWithTag("Player2");
     }
 
     // Update is called once per frame
