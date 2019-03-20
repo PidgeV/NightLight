@@ -10,7 +10,7 @@ public class FinishLevel : MonoBehaviour
     private GameObject otherPlayer;
 
     public bool lastLevel = false;
-    public float loadTimer = 0;
+    private float loadTimer = 0;
     [Header("This is the index for the scene you wish to load, see File->Build Settings")]
     [Header("If wishing for 1 scene, set all 3 to the same value")]
     public int sceneIndex = 0;
@@ -18,13 +18,13 @@ public class FinishLevel : MonoBehaviour
     public int minIndex = 0;
     [Header("Amount of time(in seconds) player must stand in trigger to reload the level.")]
     public float timeBeforeLoad = 1;
-    public GameObject spinner;
-
-    public float smooth = 5.0f;
-    float tiltAngle = 0.0f;
-
     public GameObject otherEnd;
     public bool atEnd = false;
+
+    [Header("These can be left blank for normal level load")]
+    public GameObject spinner;
+    public float smooth = 5.0f;
+    float tiltAngle = 0.0f;
 
     private void OnTriggerStay(Collider other)
     {
@@ -56,7 +56,7 @@ public class FinishLevel : MonoBehaviour
                     Debug.Log(e.Message);
                 }
             }
-            else if (other.tag == "Player" && lastLevel)
+            else if (atEnd && otherEnd.GetComponent<FinishLevel>().atEnd && lastLevel)
             {
                 //Game's over, print out neccessary win screen
             }
