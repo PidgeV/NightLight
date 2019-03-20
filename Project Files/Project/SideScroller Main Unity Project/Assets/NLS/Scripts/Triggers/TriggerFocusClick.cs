@@ -5,10 +5,12 @@ using TMPro;
 
 public class TriggerFocusClick : MonoBehaviour {
     public GameObject lookAt;
+    private SwitchCharacterControl controller;
     TextMeshPro text;
     private Color clr;
 
-    private bool inCollider = false;
+    private bool inColliderP1 = false;
+    private bool inColliderP2 = false;
 
     private float blendValue = 0;
     public float transistionSpeed = 1;
@@ -24,6 +26,8 @@ public class TriggerFocusClick : MonoBehaviour {
 
         clr = text.faceColor;
         clr.a = 0;
+
+        controller = GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>();
     }
 
     // Update is called once per frame
@@ -31,7 +35,7 @@ public class TriggerFocusClick : MonoBehaviour {
     {
 
         //Increase/decrease alpha if player is inside/outside collider
-        if (inCollider)
+        if (inColliderP1 || inColliderP2)
         {
             if (blendValue > 0)
                 blendValue -= transistionSpeed * Time.deltaTime;
@@ -51,7 +55,25 @@ public class TriggerFocusClick : MonoBehaviour {
         }
 
         //Allows click to activate lights
-        if (Input.GetButtonDown("Activate") && inCollider)
+        if (Input.GetButtonDown("Activate") && inColliderP1 && controller.onPlayer1)
+        {
+            if (!triggered)
+            {
+                if (lookAt != null)
+                {
+                    GameObject.FindGameObjectWithTag("LevelControl").GetComponent<FocusCamera>().TriggerSwitch(lookAt);
+                    if (!Replay)
+                        triggered = true;
+                }
+                else
+                {
+                    GameObject.FindGameObjectWithTag("LevelControl").GetComponent<FocusCamera>().TriggerSwitch(ToTrigger);
+                    if (!Replay)
+                        triggered = true;
+                }
+            }
+        }
+        else if (Input.GetButtonDown("Activate") && inColliderP2 && !controller.onPlayer1)
         {
             if (!triggered)
             {
@@ -73,13 +95,15 @@ public class TriggerFocusClick : MonoBehaviour {
 
     private void OnTriggerEnter(Collider other)
     {
-        inCollider = true;
+        if (other.tag == "Player") inColliderP1 = true;
+        else if (other.tag == "Player2") inColliderP2 = true;
     }
     private void OnTriggerExit(Collider other)
     {
         //if (triggered && Replay)
         //    triggered = false;
-        inCollider = false;
+        if (other.tag == "Player") inColliderP1 = false;
+        else if (other.tag == "Player2") inColliderP2 = false;
     }
 
 }
