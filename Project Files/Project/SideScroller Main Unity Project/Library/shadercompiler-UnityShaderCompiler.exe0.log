@@ -335,6 +335,7 @@ Cmd: preprocess
   insize=7254 outsize=3476 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -345,3 +346,5 @@ Cmd: initializeCompiler
 Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
 
 Quitting shader compiler process
+=======
+>>>>>>> 19f339f7d822b508e60a069d8c0327f2fc9df48e
