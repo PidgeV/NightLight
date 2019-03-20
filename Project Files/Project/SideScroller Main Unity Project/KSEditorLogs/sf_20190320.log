@@ -1,0 +1,264 @@
+2019-03-20 13:48:21.0549 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-20 13:48:21.0639 [INFO] Setting define symbol SCENE_FUSION
+2019-03-20 13:48:32.6320 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-20 13:49:03.4004 [DEBUG] Web request login error: Invalid credentials
+2019-03-20 14:03:01.2740 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-20 14:03:01.5530 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-20 14:03:20.3721 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:03:23.3471 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:03:33.8530 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:03:37.2497 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:03:39.7937 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:03:46.2791 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:03:53.5851 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:04:32.0184 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:04:54.4433 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-03-20 14:05:05.9813 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:05.9973 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.0143 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.0303 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.0473 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.0963 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.0973 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.1473 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.1503 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.9113 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.9283 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.9603 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.9773 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:06.9943 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.0123 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.0503 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.0533 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.0703 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.1033 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.1193 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.5093 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.5433 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.5593 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.5793 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.5993 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.6193 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.6353 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.6523 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.6683 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.7063 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.7233 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.7393 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.7563 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:07.7723 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:08.5973 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:08.6133 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:08.6313 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:08.6533 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:08.6693 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:08.7033 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:08.7193 [ERROR] MissingComponentException: There is no 'Collider' attached to the "Spot Light (4)" game object, but a script is trying to access it.
+You probably need to add a Collider to the game object "Spot Light (4)". Or your script needs to check if the component is attached before using it.
+PlayerMove2.IsGrounded () (at Assets/RGD/Scripts/PlayerMove2.cs:170)
+PlayerMove2.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove2.cs:126)
+
+2019-03-20 14:05:14.7693 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+FocusCamera.TriggerSwitch (Int32 segmentOfArray) (at Assets/NLS/Scripts/FocusCamera.cs:74)
+TriggerFocusClick.Update () (at Assets/NLS/Scripts/Triggers/TriggerFocusClick.cs:88)
+
+2019-03-20 14:12:44.6159 [DEBUG] Play mode: False
+2019-03-20 14:14:25.5480 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-20 14:14:25.6470 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-20 14:15:51.8604 [DEBUG] Play mode: False
