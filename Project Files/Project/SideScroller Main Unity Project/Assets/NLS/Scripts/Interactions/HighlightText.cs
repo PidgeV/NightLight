@@ -41,6 +41,7 @@ public class HighlightText : Selectable, IPointerEnterHandler, ISelectHandler
             {
                 try
                 {
+                    Time.timeScale = 1;
                     SceneManager.LoadScene(0);  // loads in main menu
                 }
                 catch (System.Exception e)
