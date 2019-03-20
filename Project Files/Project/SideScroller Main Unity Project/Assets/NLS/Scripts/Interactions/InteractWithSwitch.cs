@@ -100,7 +100,13 @@ public class InteractWithSwitch : MonoBehaviour
         //Change lights
         for (int i = 0; i < lights.Length; i++)
         {
-            if (lights[i] != null) lights[i].enabled = !lights[i].enabled;
+            if (lights[i] != null)
+            {
+                lights[i].enabled = !lights[i].enabled;
+                BlakeTestRays_DblDmg damage = lights[i].GetComponent<BlakeTestRays_DblDmg>();
+                if (damage.playerIn) damage.rayHitP1 = !damage.rayHitP1;
+                if (damage.player2In) damage.rayHitP2 = !damage.rayHitP2;
+            }
         }
 
         //Run animations
