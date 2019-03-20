@@ -45,7 +45,7 @@ public class FinishLevel : MonoBehaviour
             }
             lastLevel = sceneIndex == maxIndex ? true : false;
 
-            if (atEnd && otherEnd.GetComponent<FinishLevel>().atEnd)
+            if (atEnd && otherEnd.GetComponent<FinishLevel>().atEnd&& !lastLevel)
             {
                 try
                 {
@@ -59,6 +59,14 @@ public class FinishLevel : MonoBehaviour
             else if (atEnd && otherEnd.GetComponent<FinishLevel>().atEnd && lastLevel)
             {
                 //Game's over, print out neccessary win screen
+                try
+                {
+                    SceneManager.LoadScene(0);
+                }
+                catch (System.Exception e)
+                {
+                    Debug.Log(e.Message);
+                }
             }
             else
             {
