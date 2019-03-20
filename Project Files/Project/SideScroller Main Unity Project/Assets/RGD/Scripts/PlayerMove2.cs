@@ -167,7 +167,7 @@ public class PlayerMove2 : MonoBehaviour
 			RaycastHit hit;
 			if(Physics.Raycast(check.position, Vector3.down, out hit, dist + 0.05f))
 			{
-				if(!hit.transform.GetComponent<Collider>().isTrigger)
+				if(hit.transform.GetComponent<Collider>() && !hit.transform.GetComponent<Collider>().isTrigger)
 				{
 					//slope control
 					slope = Vector3.Angle (hit.normal, Vector3.up);

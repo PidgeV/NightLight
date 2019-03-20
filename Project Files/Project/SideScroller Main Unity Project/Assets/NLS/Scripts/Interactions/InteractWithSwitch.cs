@@ -104,8 +104,8 @@ public class InteractWithSwitch : MonoBehaviour
             {
                 lights[i].enabled = !lights[i].enabled;
                 BlakeTestRays_DblDmg damage = lights[i].GetComponent<BlakeTestRays_DblDmg>();
-                if (damage.playerIn) damage.rayHitP1 = !damage.rayHitP1;
-                if (damage.player2In) damage.rayHitP2 = !damage.rayHitP2;
+                //if (damage.playerIn) damage.rayHitP1 = !damage.rayHitP1;
+                //if (damage.player2In) damage.rayHitP2 = !damage.rayHitP2;
             }
         }
 
