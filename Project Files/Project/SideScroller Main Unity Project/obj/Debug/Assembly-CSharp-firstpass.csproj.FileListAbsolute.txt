@@ -1716,3 +1716,5 @@ D:\Users\Nathe\OneDrive\Documents\GitHub\NightLight\Project Files\Project\SideSc
 D:\Users\Nathe\OneDrive\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\obj\Debug\Assembly-CSharp-firstpass.pdb
 C:\Users\Administrator\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\KSCommon.Unity2018_2.dll
 C:\Users\Administrator\Documents\GitHub\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\KSSceneFusion.Unity2018_2.dll
+C:\Users\Peter\Desktop\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\KSCommon.Unity2018_2.dll
+C:\Users\Peter\Desktop\NightLight\Project Files\Project\SideScroller Main Unity Project\Temp\bin\Debug\KSSceneFusion.Unity2018_2.dll

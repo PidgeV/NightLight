@@ -13,7 +13,7 @@ public class InteractWithSwitch : MonoBehaviour
     public GameObject levelControlObject;
 
     [Tooltip("If true, all lights will use the first bool in the array.")]
-    public float lightDelay = 0.0f;
+    private float lightDelay = 1.0f;
     public bool[] lightOnInitially;
     public Light[] lights;
 
@@ -56,7 +56,7 @@ public class InteractWithSwitch : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {        
         triggerDelay += Time.deltaTime;
         //Increase/decrease alpha if player is inside/outside collider
         if (yennoIn || fenIn)

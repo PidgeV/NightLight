@@ -7,12 +7,15 @@ public class Checkpoint : MonoBehaviour
 {
 	public Color activeColor = Color.green;	//color when checkpoint is activated
 	public float activeColorOpacity = 0.4f;	//opacity when checkpoint is activated
-	
+	public enum PlayerNumber { PLAYER_ONE, PLAYER_TWO};
+    public PlayerNumber player;
+
 	private Health health;
 	private Color defColor;
 	private GameObject[] checkpoints;
 	private Renderer render;
 	private AudioSource aSource;
+
 
 	//setup
 	void Awake()
@@ -35,7 +38,14 @@ public class Checkpoint : MonoBehaviour
 	void Start()
 	{
 		checkpoints = GameObject.FindGameObjectsWithTag("Respawn");
-		health = GameObject.FindGameObjectWithTag("Player").GetComponent<Health>();
+        if (player == PlayerNumber.PLAYER_ONE)
+        {
+            health = GameObject.FindGameObjectWithTag("Player").GetComponent<Health>();
+        }
+        else if(player == PlayerNumber.PLAYER_TWO)
+        {
+            health = GameObject.FindGameObjectWithTag("Player2").GetComponent<Health>();
+        }
 		if(!health)
 			Debug.LogError("For Checkpoint to work, the Player needs 'Health' script attached", transform);
 	}
@@ -57,5 +67,19 @@ public class Checkpoint : MonoBehaviour
 				render.material.color = activeColor;
 			}
 		}
+        else if(other.transform.tag == "Player2" && health)
+        {
+            //set respawn position in players health script
+            health.respawnPos = transform.position;
+
+            //toggle checkpoints
+            if (render.material.color != activeColor)
+            {
+                foreach (GameObject checkpoint in checkpoints)
+                    checkpoint.GetComponent<Renderer>().material.color = defColor;
+                aSource.Play();
+                render.material.color = activeColor;
+            }
+        }
 	}
 }
