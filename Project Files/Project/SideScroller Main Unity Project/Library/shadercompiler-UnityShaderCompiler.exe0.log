@@ -140,7 +140,7 @@ Cmd: preprocess
 Cmd: preprocess
   insize=6503 outsize=930 ok=1
 Cmd: preprocess
-  insize=10047 outsize=3838 ok=1
+  insize=10352 outsize=3956 ok=1
 Cmd: preprocessCompute
   insize=5431 outsize=5435 ok=1
 Cmd: preprocess
@@ -347,12 +347,5 @@ Cmd: preprocess
   insize=4065 outsize=3549 ok=1
 Cmd: preprocess
   insize=7254 outsize=3476 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
