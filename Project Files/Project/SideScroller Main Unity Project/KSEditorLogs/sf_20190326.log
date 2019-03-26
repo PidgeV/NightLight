@@ -12,3 +12,14 @@
 2019-03-26 11:48:07.0045 [DEBUG] Scene Fusion version 1.8.2-0
 2019-03-26 11:48:07.0895 [DEBUG] Play mode: True, sync in play mode: True
 2019-03-26 11:48:48.4501 [DEBUG] Play mode: False
+2019-03-26 11:50:34.5513 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-26 11:53:24.6207 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-26 11:53:24.7583 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-26 11:53:54.5958 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-03-26 11:54:20.4483 [DEBUG] Play mode: False
+2019-03-26 11:54:36.1101 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-26 11:54:36.2432 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-26 11:55:15.2165 [DEBUG] Play mode: False
