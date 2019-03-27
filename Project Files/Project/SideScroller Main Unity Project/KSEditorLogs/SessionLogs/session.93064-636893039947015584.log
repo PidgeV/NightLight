@@ -1,0 +1,117 @@
+2019-03-27 17:19:54.7825 [DEBUG] Validating model...
+2019-03-27 17:19:54.8713 [DEBUG] Model updated
+2019-03-27 17:19:54.8713 [DEBUG] Authenticating with server...
+2019-03-27 17:19:55.2993 [DEBUG] Connected to room. (93064:SceneFusion:SceneFusion)
+2019-03-27 17:19:55.3286 [INFO] Connected to server.
+2019-03-27 17:19:55.3286 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-03-27 17:19:55.3286 [DEBUG] Unity Version : 2018.2.2f1
+2019-03-27 17:19:55.3286 [DEBUG] Pro License : False
+2019-03-27 17:19:55.3296 [DEBUG] Platform : WindowsEditor
+2019-03-27 17:19:55.3296 [DEBUG] Build Target : StandaloneWindows64
+2019-03-27 17:19:55.3296 [DEBUG] Scene Fusion version : 1.8.2
+2019-03-27 17:19:55.3296 [DEBUG] Scene Fusion client build : 0
+2019-03-27 17:19:55.3296 [DEBUG] User : bhoughton1@ncstudents.niagaracollege.ca
+2019-03-27 17:19:55.3296 [DEBUG] Waiting for server response
+2019-03-27 17:19:55.3579 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-03-27 17:19:55.3579 [DEBUG] User Permissions: FFFFFFFF
+2019-03-27 17:19:55.6024 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-03-27 17:19:55.6024 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-03-27 17:19:55.8250 [DEBUG] Uploading scene 'Scraps Level Slums'
+2019-03-27 17:19:56.1066 [DEBUG] Encoding objects for NLS/Scenes/Scraps Level Slums.unity
+2019-03-27 17:20:00.4475 [DEBUG] Compressing scene data
+2019-03-27 17:20:07.9438 [DEBUG] Spawn request. (Objects: 5008)
+2019-03-27 17:20:07.9477 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-03-27 17:20:07.9497 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-03-27 17:20:07.9526 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-03-27 17:20:07.9555 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-03-27 17:20:08.0292 [DEBUG] batch size: 89019
+2019-03-27 17:20:08.3533 [DEBUG] Upload
+2019-03-27 17:20:08.4606 [DEBUG] Waitng for server to process scene data
+2019-03-27 17:20:10.3234 [DEBUG] Loading complete
+2019-03-27 17:21:45.7742 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:23:32.3405 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:23:34.8924 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:23:40.1856 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:23:48.0063 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:24:11.5082 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:24:14.2055 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:24:20.4885 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:24:22.3870 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:24:23.7320 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:24:25.7481 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:24:38.8171 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:30:06.9425 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:31:43.5521 [WARNING] Null multitype value detected.  Defaulting to int = 0
+2019-03-27 17:31:43.5531 [WARNING] Null multitype value detected.  Defaulting to int = 0
+2019-03-27 17:31:43.5541 [WARNING] Null multitype value detected.  Defaulting to int = 0
+2019-03-27 17:31:43.5551 [WARNING] Null multitype value detected.  Defaulting to int = 0
+2019-03-27 17:31:43.5560 [WARNING] Null multitype value detected.  Defaulting to int = 0
+2019-03-27 17:31:49.3144 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:31:56.6805 [DEBUG] Spawn request. (Objects: 24)
+2019-03-27 17:32:42.6392 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:37:55.1907 [DEBUG] Room RPC. (Id: 67, Size: 10588, Reporting Threshold: 10000)
+2019-03-27 17:38:03.3297 [DEBUG] Removing 90 of 22302 instance ids from reference map.
+2019-03-27 17:38:34.7883 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:38:47.6861 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:39:16.1711 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:40:36.5705 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:41:09.5676 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:42:08.3441 [DEBUG] Spawn request. (Objects: 25)
+2019-03-27 17:42:15.3000 [DEBUG] Spawn request. (Objects: 25)
+2019-03-27 17:42:20.6884 [DEBUG] Spawn request. (Objects: 25)
+2019-03-27 17:42:23.1374 [DEBUG] Spawn request. (Objects: 25)
+2019-03-27 17:44:16.4931 [DEBUG] Removing 681 of 24239 instance ids from reference map.
+2019-03-27 17:44:16.7284 [DEBUG] Spawn request. (Objects: 100)
+2019-03-27 17:44:20.9846 [DEBUG] Spawn request. (Objects: 100)
+2019-03-27 17:44:25.9532 [DEBUG] Spawn request. (Objects: 100)
+2019-03-27 17:44:29.8243 [DEBUG] Spawn request. (Objects: 100)
+2019-03-27 17:44:34.5714 [DEBUG] Spawn request. (Objects: 100)
+2019-03-27 17:44:58.8135 [DEBUG] Encoding objects for NLS/Scenes/Scraps Level Slums.unity
+2019-03-27 17:45:00.8189 [DEBUG] Spawn request. (Objects: 600)
+2019-03-27 17:45:28.0802 [DEBUG] Spawn request. (Objects: 200)
+2019-03-27 17:46:18.8562 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:47:01.9060 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:47:06.5189 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:47:13.9907 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:47:51.4917 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:47:56.1676 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:47:59.8723 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:48:03.5710 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:48:07.5618 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:48:11.1269 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:48:14.6071 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:48:18.5426 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:49:26.2361 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:49:31.4239 [DEBUG] Spawn request. (Objects: 4)
+2019-03-27 17:49:44.6852 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:50:08.1957 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:50:20.6039 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:50:27.3780 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:50:33.4026 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:50:53.3857 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:51:01.1512 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:51:08.5621 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:51:14.8699 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:51:35.2771 [DEBUG] Spawn request. (Objects: 15)
+2019-03-27 17:51:58.9263 [DEBUG] Spawn request. (Objects: 30)
+2019-03-27 17:52:15.1330 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:52:45.3844 [DEBUG] Spawn request. (Objects: 1)
+2019-03-27 17:52:58.8937 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:03.4398 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:11.4402 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:15.9517 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:20.9570 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:26.5831 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:35.5492 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:39.4877 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:42.8707 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:48.3879 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:51.4195 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:53:57.0226 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:54:01.6990 [DEBUG] Spawn request. (Objects: 2)
+2019-03-27 17:54:20.4919 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:55:07.8988 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:55:13.7034 [DEBUG] Spawn request. (Objects: 12)
+2019-03-27 17:56:18.2109 [DEBUG] Disconnecting from room (93064:SceneFusion:SceneFusion)
+2019-03-27 17:56:18.2138 [INFO] Disconnected from server.
+2019-03-27 17:56:18.2138 [DEBUG] Disconnect. (Duration: 2182)
