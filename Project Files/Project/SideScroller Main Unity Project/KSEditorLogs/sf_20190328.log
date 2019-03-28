@@ -6,3 +6,349 @@
 2019-03-28 10:56:43.3547 [DEBUG] Play mode: True, sync in play mode: False
 2019-03-28 10:58:43.4469 [DEBUG] Play mode: False
 2019-03-28 11:03:38.9884 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:44:31.9761 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:45:16.2224 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:45:16.3195 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:45:26.1832 [DEBUG] Play mode: False
+2019-03-28 11:45:49.7225 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:45:49.8255 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:45:50.2095 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:51.0785 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:52.8595 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:53.0385 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:53.2017 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:53.3601 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:53.5105 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:53.6614 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:53.7944 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:55.8295 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:56.0055 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:56.1725 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:57.0765 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:57.2355 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:57.6115 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:57.8055 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:58.0675 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:58.2515 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:58.4405 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:58.6255 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:58.7835 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:58.9455 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:59.1175 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:45:59.9915 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:01.7215 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:01.9255 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:02.0805 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:02.2225 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:02.3935 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:02.5345 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:02.7825 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:02.9485 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:03.1105 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:03.2965 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:04.4365 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:04.6415 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:04.7835 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:04.9310 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PauseMenu.showPaused () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:46)
+PauseMenu.Update () (at Assets/NLS/Scripts/Interactions/PauseMenu.cs:38)
+
+2019-03-28 11:46:08.0869 [DEBUG] Play mode: False
+2019-03-28 11:47:29.4418 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:47:29.5338 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:47:40.4539 [DEBUG] Play mode: False
+2019-03-28 11:48:56.0172 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:48:56.0972 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:49:01.1432 [DEBUG] Play mode: False
+2019-03-28 11:49:29.7800 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:49:29.8489 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:49:40.2852 [DEBUG] Play mode: False
+2019-03-28 11:51:18.1897 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:51:18.2557 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:51:23.0857 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:23.0997 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:23.1167 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:23.1337 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:23.9447 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:23.9637 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:23.9827 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.0937 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.1127 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.1357 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.2227 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.2397 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.2587 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.2807 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.3547 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.3707 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.3897 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:24.4077 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:26.3487 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:26.3657 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:26.3817 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:26.3987 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:26.4157 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:27.7197 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:27.7367 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:27.7527 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:27.7697 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:27.7877 [ERROR] UnassignedReferenceException: The variable levelControl of HighlightText has not been assigned.
+You probably need to assign the levelControl variable of the HighlightText script in the inspector.
+UnityEngine.GameObject.GetComponent[PauseMenu] () (at C:/buildslave/unity/build/Runtime/Export/GameObject.bindings.cs:28)
+HighlightText.Update () (at Assets/NLS/Scripts/Interactions/HighlightText.cs:38)
+
+2019-03-28 11:51:32.1927 [DEBUG] Play mode: False
+2019-03-28 11:52:31.8444 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:52:31.9334 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:52:40.7346 [DEBUG] Play mode: False
+2019-03-28 11:53:13.6473 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:53:13.6673 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:54:33.1786 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/KeyValuePair.cs:50)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-03-28 11:55:04.4116 [DEBUG] Play mode: False
+2019-03-28 11:57:16.3119 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 11:57:16.3658 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 11:57:25.4611 [DEBUG] Play mode: False
+2019-03-28 12:00:00.8297 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:00:00.8887 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 12:00:27.8973 [DEBUG] Play mode: False
+2019-03-28 12:00:43.4311 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:00:43.5000 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 12:00:56.8964 [DEBUG] Play mode: False
+2019-03-28 12:06:25.9771 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:06:26.0471 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 12:06:31.1837 [DEBUG] Play mode: False
+2019-03-28 12:06:35.6867 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:06:45.4787 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:06:45.5337 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 12:07:06.5634 [DEBUG] Play mode: False
+2019-03-28 12:07:13.0512 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:07:13.1232 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 12:07:17.0763 [DEBUG] Play mode: False
+2019-03-28 12:08:13.4106 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:08:13.5126 [DEBUG] Play mode: True, sync in play mode: False
+2019-03-28 12:08:37.6971 [DEBUG] Play mode: False
+2019-03-28 12:08:53.4013 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:09:38.3153 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-28 12:11:57.0125 [DEBUG] Scene Fusion version 1.8.2-0

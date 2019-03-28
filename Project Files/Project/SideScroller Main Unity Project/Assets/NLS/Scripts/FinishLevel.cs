@@ -43,7 +43,7 @@ public class FinishLevel : MonoBehaviour
                 atEnd = true;
                 otherPlayer = GameObject.FindGameObjectWithTag("Player");
             }
-            lastLevel = sceneIndex == maxIndex ? true : false;
+
 
             if (atEnd && otherEnd.GetComponent<FinishLevel>().atEnd&& !lastLevel)
             {
