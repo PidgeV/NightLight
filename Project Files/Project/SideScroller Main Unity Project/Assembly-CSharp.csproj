@@ -145,6 +145,7 @@
     <Compile Include="Assets\NLS\Scripts\MoveTrain.cs" />
     <Compile Include="Assets\NLS\Scripts\PlayerLightCounter.cs" />
     <Compile Include="Assets\NLS\Scripts\RotateObject.cs" />
+    <Compile Include="Assets\NLS\Scripts\SpinCameraS.cs" />
     <Compile Include="Assets\NLS\Scripts\SwitchCharacterControl.cs" />
     <Compile Include="Assets\NLS\Scripts\TeleportDelay.cs" />
     <Compile Include="Assets\NLS\Scripts\TestAllLights.cs" />

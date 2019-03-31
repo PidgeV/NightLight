@@ -111,3 +111,2224 @@ UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generate
 InteractWithSwitch.Update () (at Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
 
 2019-03-31 15:14:33.5746 [DEBUG] Play mode: False
+2019-03-31 17:55:29.2728 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 17:56:05.9212 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 17:56:15.4880 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 17:56:15.5340 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.5350 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.5350 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8032 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 17:56:15.8303 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8313 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8313 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8493 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8503 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8503 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8643 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8653 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8653 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8813 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8823 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8823 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8973 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.8973 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9154 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9154 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9304 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9314 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9314 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9484 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9484 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9494 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9634 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9644 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9644 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9804 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9814 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9814 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9955 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9965 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:15.9965 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0135 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0145 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0145 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0305 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0315 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0315 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0460 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0470 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0470 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0630 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0640 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0640 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0780 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0790 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0790 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0961 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0971 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.0981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1141 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1141 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1151 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1291 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1301 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1301 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1471 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1471 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1471 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1621 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1631 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1631 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1781 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1791 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1791 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1952 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1962 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.1962 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2122 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2122 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2132 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2292 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2362 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2362 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2482 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2492 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2492 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2642 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2652 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2652 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2812 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2822 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2822 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2962 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2972 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.2972 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3153 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3303 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3313 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3313 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3473 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3483 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3483 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3633 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3643 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3643 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3804 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3814 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3814 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3954 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3964 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.3964 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4144 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4154 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4154 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4304 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4304 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4314 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4464 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4474 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4474 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4634 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4634 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4644 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4785 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4795 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4795 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4965 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4975 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.4975 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5125 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5135 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5135 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5295 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5305 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5305 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5465 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5475 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5475 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5626 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5636 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5636 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5776 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5786 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5786 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5956 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5966 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.5966 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6116 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6126 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6126 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6286 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6296 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6296 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6456 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6466 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6466 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6617 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6627 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6627 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6777 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6777 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6787 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6947 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6957 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.6957 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7127 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7127 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7137 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7287 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7297 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7297 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7447 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7457 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7457 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7617 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7627 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7627 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7768 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7778 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7788 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7948 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7958 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.7958 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8108 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8118 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8118 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8278 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8288 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8288 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8438 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8448 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8448 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8608 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8618 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8618 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8758 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8768 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8768 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8939 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8949 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.8949 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9099 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9109 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9109 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9269 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9339 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9339 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9439 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9449 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9449 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9589 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9599 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9599 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9769 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9769 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9769 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9930 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9940 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:16.9940 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0100 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0110 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0110 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0260 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0270 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0270 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0430 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0430 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0440 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0580 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0590 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0590 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0760 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0770 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0770 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0930 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0940 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.0940 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1091 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1101 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1101 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1261 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1271 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1271 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1421 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1431 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1431 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1571 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1581 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1581 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1751 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1761 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1761 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1921 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1931 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.1931 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2091 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2091 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2101 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2262 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2272 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2272 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2422 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2432 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2432 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2572 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2582 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2582 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2752 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2752 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2752 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2912 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2922 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.2922 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3082 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3092 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3102 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3253 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3263 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3263 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3413 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3413 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3423 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3563 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3573 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3573 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3743 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3753 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3753 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3913 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3923 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.3923 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4073 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4083 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4083 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4243 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4243 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4243 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4404 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4414 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4424 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4564 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4574 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4574 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4734 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4744 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4744 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4904 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4914 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.4914 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5065 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5075 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5075 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5235 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5245 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5245 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5385 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5395 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5395 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5565 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5575 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5575 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5725 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5735 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5735 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5896 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5926 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.5926 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6076 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6076 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6076 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6236 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6246 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6256 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6406 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6416 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6416 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6566 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6566 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6736 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6746 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6746 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6897 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6907 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.6907 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7067 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7077 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7077 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7227 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7237 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7237 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7402 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7412 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7412 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7552 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7562 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7562 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7733 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7743 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7743 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7893 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7903 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.7903 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8063 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8073 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8083 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8223 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8233 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8233 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8383 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8393 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8393 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8553 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8563 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8563 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8724 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8734 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8734 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8894 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8894 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.8894 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9054 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9064 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9064 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9224 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9224 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9224 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9375 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9385 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9385 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9555 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9555 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9565 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9715 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9725 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9725 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9885 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9895 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:17.9895 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0055 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0065 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0065 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0215 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0225 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0225 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0376 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0386 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0386 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0546 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0556 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0706 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0716 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0716 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0876 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0886 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.0886 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1047 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1047 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1047 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1207 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1217 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1217 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1367 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1367 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1367 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1537 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1547 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1707 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1707 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1717 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1868 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1878 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.1878 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2038 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2048 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2048 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2188 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2198 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2198 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2368 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2433 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2433 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2533 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2543 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2543 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2703 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2714 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2714 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2864 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2874 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.2874 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3034 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3044 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3044 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3184 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3194 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3194 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3365 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3365 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3375 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3525 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3535 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3535 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3695 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3705 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3705 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3865 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3875 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.3875 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4025 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4035 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4035 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4185 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4195 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4195 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4355 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4365 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4365 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4526 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4526 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4536 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4686 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4696 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4696 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4856 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4876 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.4876 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5016 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5026 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5026 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5176 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5186 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5186 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5346 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5356 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5356 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5516 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5526 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5526 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5687 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5697 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5697 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5847 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5857 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.5857 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6027 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6027 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6037 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6167 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6177 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6177 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6347 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6347 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6357 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6507 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6517 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6517 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6678 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6688 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6688 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6838 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6848 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.6848 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7008 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7018 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7018 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7158 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7168 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7168 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7338 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7348 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7348 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7508 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7508 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7518 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7668 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7678 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7678 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7839 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7849 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7849 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7989 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7999 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.7999 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8169 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8179 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8179 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8329 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8339 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8339 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8559 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8569 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8569 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8659 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8669 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8669 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8829 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8839 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8839 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8986 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8990 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.8990 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9160 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9170 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9170 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9330 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9340 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9340 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9490 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9500 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9500 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9660 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9670 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9670 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9830 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9830 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9830 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9984 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9991 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:18.9991 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0161 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0171 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0171 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0321 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0331 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0331 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0491 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0501 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0501 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0651 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0661 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0661 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0821 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0821 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0831 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0971 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.0981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1152 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1162 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1322 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1322 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1332 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1492 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1492 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1502 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1662 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1662 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1672 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1822 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1822 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1832 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1962 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1972 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.1972 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2142 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2152 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2152 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2323 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2333 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2333 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2473 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2485 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2485 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2653 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2653 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2653 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2803 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2817 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2817 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.2963 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3143 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3304 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3314 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3314 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3464 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3474 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3474 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3634 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3644 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3644 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3784 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3794 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3794 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3964 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3974 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.3974 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4134 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4134 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4134 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4354 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4365 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4365 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4465 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4475 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4475 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4625 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4635 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4635 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4785 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4785 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4795 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4965 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4975 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.4975 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5125 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5135 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5135 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5295 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5295 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5295 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5455 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5466 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5466 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5626 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5636 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5636 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5776 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5786 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5786 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5956 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5966 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.5966 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6116 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6126 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6126 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6286 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6296 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6296 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6446 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6456 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6456 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6617 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6627 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6627 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6767 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6777 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6777 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6947 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6957 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.6967 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7117 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7117 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7117 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7277 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7287 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7287 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7447 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7457 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:19.7457 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+RotateObject.Update () (at Assets/NLS/Scripts/RotateObject.cs:22)
+
+2019-03-31 17:56:20.0010 [DEBUG] Play mode: False
+2019-03-31 17:59:34.8655 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:01:06.2199 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:01:15.8080 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:01:15.8661 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:01:22.9169 [DEBUG] Play mode: False
+2019-03-31 18:01:42.3090 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:01:42.3481 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:01:46.1675 [DEBUG] Play mode: False
+2019-03-31 18:02:40.0602 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:02:40.1133 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:02:52.2858 [DEBUG] Play mode: False
+2019-03-31 18:03:16.9468 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:03:16.9878 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:03:28.6811 [DEBUG] Play mode: False
+2019-03-31 18:03:53.9989 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:03:54.6105 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:04:10.2234 [DEBUG] Play mode: False
+2019-03-31 18:04:18.3844 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:04:18.4425 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:04:24.9509 [DEBUG] Play mode: False
+2019-03-31 18:04:49.0941 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:04:49.1301 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:05:01.2676 [DEBUG] Play mode: False
+2019-03-31 18:12:13.9327 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:12:14.0338 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:12:20.9406 [DEBUG] Play mode: False
+2019-03-31 18:12:27.0753 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:12:27.1233 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:12:30.3748 [DEBUG] Play mode: False
+2019-03-31 18:12:36.1446 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:12:36.2027 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:12:40.2345 [DEBUG] Play mode: False
+2019-03-31 18:12:46.2248 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:12:46.2819 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:12:55.2893 [DEBUG] Play mode: False
+2019-03-31 18:13:03.2692 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:13:03.3262 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:13:21.5359 [DEBUG] Play mode: False
+2019-03-31 18:15:44.9619 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:15:45.0160 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:16:54.5548 [DEBUG] Play mode: False
+2019-03-31 18:17:01.3136 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:17:01.3721 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:17:10.3024 [DEBUG] Play mode: False
+2019-03-31 18:18:03.3130 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:18:03.3636 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:18:27.7351 [DEBUG] Play mode: False
+2019-03-31 18:18:54.5097 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:18:54.5628 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:19:07.1873 [DEBUG] Play mode: False
+2019-03-31 18:19:19.2232 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:19:19.2803 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:19:26.6830 [DEBUG] Play mode: False
+2019-03-31 18:20:01.3424 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:20:01.4054 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:20:17.2910 [DEBUG] Play mode: False
+2019-03-31 18:20:43.8627 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:20:43.9107 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:20:53.7971 [DEBUG] Play mode: False
+2019-03-31 18:21:15.1748 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:21:15.2409 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:21:27.4389 [DEBUG] Play mode: False
+2019-03-31 18:22:20.7140 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:22:20.7741 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:22:34.3109 [DEBUG] Play mode: False
+2019-03-31 18:23:09.4252 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:23:09.4922 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:23:52.5058 [DEBUG] Play mode: False
+2019-03-31 18:25:47.1856 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:25:47.2557 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:26:18.0322 [DEBUG] Play mode: False
+2019-03-31 18:27:04.7200 [DEBUG] Scene Fusion version 1.8.2-0
+2019-03-31 18:27:04.8196 [DEBUG] Play mode: True, sync in play mode: True
+2019-03-31 18:27:14.2869 [DEBUG] Play mode: False
