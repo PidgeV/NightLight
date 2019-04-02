@@ -1,0 +1,40 @@
+2019-04-01 20:33:15.6555 [DEBUG] Validating model...
+2019-04-01 20:33:15.7458 [DEBUG] Model updated
+2019-04-01 20:33:15.7467 [DEBUG] Authenticating with server...
+2019-04-01 20:33:16.2353 [DEBUG] Connected to room. (93356:SceneFusion:SceneFusion)
+2019-04-01 20:33:16.2441 [INFO] Connected to server.
+2019-04-01 20:33:16.2441 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 20:33:16.2451 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 20:33:16.2451 [DEBUG] Pro License : False
+2019-04-01 20:33:16.2451 [DEBUG] Platform : WindowsEditor
+2019-04-01 20:33:16.2451 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 20:33:16.2460 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 20:33:16.2460 [DEBUG] Scene Fusion client build : 0
+2019-04-01 20:33:16.2470 [DEBUG] User : bhoughton1@ncstudents.niagaracollege.ca
+2019-04-01 20:33:16.2470 [DEBUG] Waiting for server response
+2019-04-01 20:33:16.3227 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 20:33:16.3227 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 20:33:16.5540 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 20:33:16.5540 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 20:33:16.8005 [DEBUG] Uploading scene 'Scraps Level Slums'
+2019-04-01 20:33:17.0523 [DEBUG] Encoding objects for NLS/Scenes/Scraps Level Slums.unity
+2019-04-01 20:33:17.5213 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 20:33:32.8021 [DEBUG] Compressing scene data
+2019-04-01 20:33:53.7539 [DEBUG] Spawn request. (Objects: 11560)
+2019-04-01 20:33:53.7578 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:33:53.7607 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:33:53.7626 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:33:53.7656 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:33:53.7685 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:33:53.7709 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:33:53.7729 [DEBUG] Room RPC. (Id: 75, Size: 15827, Reporting Threshold: 10000)
+2019-04-01 20:33:53.7953 [DEBUG] batch size: 135927
+2019-04-01 20:33:53.9627 [DEBUG] Upload
+2019-04-01 20:33:54.1570 [DEBUG] Waitng for server to process scene data
+2019-04-01 20:34:07.6725 [DEBUG] frame size: 79595
+2019-04-01 20:34:07.7154 [DEBUG] Download
+2019-04-01 20:34:09.8862 [DEBUG] Loading complete
+2019-04-01 20:36:30.2978 [DEBUG] Spawn request. (Objects: 12)
+2019-04-01 20:38:18.4251 [DEBUG] Disconnecting from room (93356:SceneFusion:SceneFusion)
+2019-04-01 20:38:18.4281 [INFO] Disconnected from server.
+2019-04-01 20:38:18.4281 [DEBUG] Disconnect. (Duration: 302)

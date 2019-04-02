@@ -27,7 +27,7 @@ public class MoveElevator : MonoBehaviour
             if (objectToMove.transform.position.y <= origin + maxDis)
                 targetPosition += new Vector3(0, speed, 0);
 
-        if (Input.GetKey(KeyCode.Q) && triggered || triggered == false)
+        if (Input.GetKey(KeyCode.Q) && triggered)
             if (objectToMove.transform.position.y >= origin + minDis)
                 targetPosition += new Vector3(0, -speed, 0);
 
@@ -36,7 +36,7 @@ public class MoveElevator : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "Player")
+        if(other.tag == "Player2")
         {
             triggered = true;
         }
@@ -44,7 +44,7 @@ public class MoveElevator : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.tag == "Player")
+        if (other.tag == "Player2")
         {
             triggered = false;
         }
