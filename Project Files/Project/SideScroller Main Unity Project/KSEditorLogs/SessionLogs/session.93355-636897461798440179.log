@@ -1,0 +1,70 @@
+2019-04-01 20:09:39.9317 [DEBUG] Validating model...
+2019-04-01 20:09:40.0355 [DEBUG] Model updated
+2019-04-01 20:09:40.0355 [DEBUG] Authenticating with server...
+2019-04-01 20:09:40.4573 [DEBUG] Connected to room. (93355:SceneFusion:SceneFusion)
+2019-04-01 20:09:40.4593 [INFO] Connected to server.
+2019-04-01 20:09:40.4603 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 20:09:40.4603 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 20:09:40.4603 [DEBUG] Pro License : False
+2019-04-01 20:09:40.4603 [DEBUG] Platform : WindowsEditor
+2019-04-01 20:09:40.4603 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 20:09:40.4603 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 20:09:40.4603 [DEBUG] Scene Fusion client build : 0
+2019-04-01 20:09:40.4603 [DEBUG] User : pmatesic1@ncstudents.niagaracollege.ca
+2019-04-01 20:09:40.4603 [DEBUG] Waiting for server response
+2019-04-01 20:09:50.1724 [DEBUG] frame size: 179494
+2019-04-01 20:09:50.1804 [DEBUG] Download
+2019-04-01 20:09:52.7685 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 20:09:52.7685 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 20:09:52.8582 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 20:09:52.8582 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 20:09:57.3183 [DEBUG] Download finished
+2019-04-01 20:09:57.4879 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-2-3'.
+2019-04-01 20:09:57.4928 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-3'.
+2019-04-01 20:09:57.4948 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-4'.
+2019-04-01 20:09:57.4958 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.
+2019-04-01 20:09:57.5018 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.
+2019-04-01 20:09:57.5038 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.
+2019-04-01 20:09:57.5048 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.
+2019-04-01 20:09:57.5058 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.
+2019-04-01 20:09:57.5078 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.
+2019-04-01 20:09:57.5098 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.
+2019-04-01 20:09:57.5138 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.
+2019-04-01 20:09:58.7789 [WARNING] Expected 10 prefab components on prefab 'Assets/NLS/Prefabs/Interactions/Scraps Interact Light.prefab-1' but found 11.
+2019-04-01 20:10:02.4262 [DEBUG] frame size: 52202
+2019-04-01 20:10:20.6166 [DEBUG] Loading complete
+2019-04-01 20:15:26.8684 [DEBUG] Disconnecting temporarily to recompile.
+2019-04-01 20:15:26.8684 [DEBUG] Disconnecting from room (93355:SceneFusion:SceneFusion)
+2019-04-01 20:15:26.8724 [INFO] Disconnected from server.
+2019-04-01 20:15:26.8724 [DEBUG] Disconnect. (Duration: 345)
+2019-04-01 20:15:31.9483 [DEBUG] Connecting
+2019-04-01 20:15:31.9743 [DEBUG] Connecting to room (93355:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-04-01 20:15:31.9783 [DEBUG] Guest connection. (Session: 93355)
+2019-04-01 20:15:32.0690 [DEBUG] Validating model...
+2019-04-01 20:15:32.1987 [DEBUG] Model updated
+2019-04-01 20:15:32.1987 [DEBUG] Authenticating with server...
+2019-04-01 20:15:32.3124 [DEBUG] Connected to room. (93355:SceneFusion:SceneFusion)
+2019-04-01 20:15:32.3233 [INFO] Connected to server.
+2019-04-01 20:15:32.3233 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 20:15:32.3233 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 20:15:32.3233 [DEBUG] Pro License : False
+2019-04-01 20:15:32.3233 [DEBUG] Platform : WindowsEditor
+2019-04-01 20:15:32.3233 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 20:15:32.3233 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 20:15:32.3233 [DEBUG] Scene Fusion client build : 0
+2019-04-01 20:15:32.3233 [DEBUG] User : pmatesic1@ncstudents.niagaracollege.ca
+2019-04-01 20:15:32.3233 [DEBUG] Waiting for server response
+2019-04-01 20:15:41.3329 [DEBUG] frame size: 180130
+2019-04-01 20:15:41.3359 [DEBUG] Download
+2019-04-01 20:15:44.4213 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 20:15:44.4213 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 20:15:44.4223 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 20:15:44.4223 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 20:15:45.6810 [DEBUG] Download finished
+2019-04-01 20:15:45.7518 [WARNING] Expected 2 prefab components on prefab 'Assets/NLS/Prefabs/Switch.prefab-5-0' but found 1.
+2019-04-01 20:15:45.7528 [WARNING] Expected 2 prefab components on prefab 'Assets/NLS/Prefabs/Switch.prefab-5-1' but found 1.
+2019-04-01 20:15:45.7547 [WARNING] Expected 2 prefab components on prefab 'Assets/NLS/Prefabs/Switch.prefab-5-2-0' but found 1.
+2019-04-01 20:15:45.7557 [WARNING] Expected 2 prefab components on prefab 'Assets/NLS/Prefabs/Switch.prefab-5-2-1' but found 1.
+2019-04-01 20:15:45.7577 [WARNING] Expected 2 prefab components on prefab 'Assets/NLS/Prefabs/Switch.prefab-5-2-2' but found 1.
+2019-04-01 20:15:45.7587 [WARNING] Property mismatch detected on 'KS.SceneFusion.Client.MissingPrefab' on prefab 'Assets/NLS/Prefabs/Switch.prefab'. Your script source code or prefabs may be out of sync.
+2019-04-01 20:15:45.7607 [INFO] Component '' is different from the server. Components of this type will not sync.

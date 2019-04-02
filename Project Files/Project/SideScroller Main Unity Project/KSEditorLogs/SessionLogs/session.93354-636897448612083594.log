@@ -1,0 +1,76 @@
+2019-04-01 19:47:41.3365 [DEBUG] Validating model...
+2019-04-01 19:47:41.5050 [DEBUG] Model updated
+2019-04-01 19:47:41.5060 [DEBUG] Authenticating with server...
+2019-04-01 19:47:42.0196 [DEBUG] Connected to room. (93354:SceneFusion:SceneFusion)
+2019-04-01 19:47:42.0295 [INFO] Connected to server.
+2019-04-01 19:47:42.0295 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 19:47:42.0295 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 19:47:42.0295 [DEBUG] Pro License : False
+2019-04-01 19:47:42.0305 [DEBUG] Platform : WindowsEditor
+2019-04-01 19:47:42.0305 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 19:47:42.0305 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 19:47:42.0305 [DEBUG] Scene Fusion client build : 0
+2019-04-01 19:47:42.0305 [DEBUG] User : pmatesic1@ncstudents.niagaracollege.ca
+2019-04-01 19:47:42.0305 [DEBUG] Waiting for server response
+2019-04-01 19:47:42.1632 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 19:47:42.1632 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 19:47:42.9670 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 19:47:42.9670 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 19:47:43.3051 [DEBUG] Uploading scene 'Scraps Level Slums'
+2019-04-01 19:47:43.9404 [DEBUG] Encoding objects for NLS/Scenes/Scraps Level Slums.unity
+2019-04-01 19:47:44.6311 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 19:47:48.9568 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 19:48:05.6515 [DEBUG] Compressing scene data
+2019-04-01 19:48:33.2513 [DEBUG] Spawn request. (Objects: 11228)
+2019-04-01 19:48:33.2573 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 19:48:33.2613 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 19:48:33.2643 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 19:48:33.2683 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 19:48:33.2712 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 19:48:33.2752 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 19:48:33.2772 [DEBUG] Room RPC. (Id: 75, Size: 15220, Reporting Threshold: 10000)
+2019-04-01 19:48:33.3052 [DEBUG] batch size: 135320
+2019-04-01 19:48:33.4796 [DEBUG] Upload
+2019-04-01 19:48:33.6751 [DEBUG] Waitng for server to process scene data
+2019-04-01 19:48:38.1009 [DEBUG] frame size: 77731
+2019-04-01 19:48:38.1089 [DEBUG] Download
+2019-04-01 19:48:41.0911 [DEBUG] Loading complete
+2019-04-01 19:50:23.1463 [DEBUG] batch size: 51978
+2019-04-01 19:52:40.1033 [DEBUG] Spawn request. (Objects: 7)
+2019-04-01 19:53:08.1310 [DEBUG] Spawn request. (Objects: 2)
+2019-04-01 19:54:23.5594 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 19:54:24.4315 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 19:55:22.1394 [DEBUG] Spawn request. (Objects: 14)
+2019-04-01 19:57:21.6891 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 20:01:55.7056 [DEBUG] Disconnecting temporarily to enter play mode.
+2019-04-01 20:01:55.7066 [DEBUG] Disconnecting from room (93354:SceneFusion:SceneFusion)
+2019-04-01 20:01:55.7256 [INFO] Disconnected from server.
+2019-04-01 20:01:55.7256 [DEBUG] Disconnect. (Duration: 853)
+2019-04-01 20:01:57.1748 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2019-04-01 20:02:09.1232 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 20:02:09.4064 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 20:02:09.8278 [DEBUG] Connecting to room (93354:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-04-01 20:02:09.8368 [DEBUG] Host connection. (Session: 93354)
+2019-04-01 20:02:09.9026 [DEBUG] Removing 792 of 44285 instance ids from reference map.
+2019-04-01 20:02:09.9375 [DEBUG] Validating model...
+2019-04-01 20:02:10.0403 [DEBUG] Model updated
+2019-04-01 20:02:10.0413 [DEBUG] Authenticating with server...
+2019-04-01 20:02:10.1988 [DEBUG] Connected to room. (93354:SceneFusion:SceneFusion)
+2019-04-01 20:02:10.2058 [INFO] Connected to server.
+2019-04-01 20:02:10.2058 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 20:02:10.2058 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 20:02:10.2058 [DEBUG] Pro License : False
+2019-04-01 20:02:10.2068 [DEBUG] Platform : WindowsEditor
+2019-04-01 20:02:10.2068 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 20:02:10.2068 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 20:02:10.2068 [DEBUG] Scene Fusion client build : 0
+2019-04-01 20:02:10.2068 [DEBUG] User : pmatesic1@ncstudents.niagaracollege.ca
+2019-04-01 20:02:17.1157 [DEBUG] Play mode: False
+2019-04-01 20:02:20.0410 [DEBUG] frame size: 179687
+2019-04-01 20:02:22.7408 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 20:02:22.7418 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 20:02:22.9811 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 20:02:22.9811 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 20:02:27.2658 [DEBUG] Spawn request. (Objects: 256)
+2019-04-01 20:05:59.3339 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-2-3'.
+2019-04-01 20:05:59.3389 [WARNING] Missing prefab child 'Assets/NLS/Prefabs/Switch.prefab-5'.

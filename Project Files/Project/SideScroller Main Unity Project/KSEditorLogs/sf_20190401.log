@@ -2,3 +2,209 @@
 2019-04-01 14:03:21.9586 [DEBUG] Scene Fusion version 1.8.2-0
 2019-04-01 14:03:22.1156 [DEBUG] Play mode: True, sync in play mode: False
 2019-04-01 14:04:31.2528 [DEBUG] Play mode: False
+2019-04-01 18:48:36.1926 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 18:48:42.7506 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 18:48:46.9614 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 18:48:46.9934 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 18:50:46.5007 [DEBUG] Play mode: False
+2019-04-01 18:57:01.1993 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 18:57:01.4691 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 18:57:20.6315 [DEBUG] Play mode: False
+2019-04-01 19:00:12.9395 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:00:13.1908 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 19:00:39.0552 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-01 19:01:13.3183 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-01 19:01:33.7378 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:02:01.2816 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:02:03.9445 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:02:09.5626 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:02:44.9495 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:02:57.5042 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:04.1014 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:25.9479 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:29.5604 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:32.8311 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:35.9073 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:39.9761 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:43.4686 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:45.8709 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:50.5638 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:53.6693 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:03:56.5205 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:00.7825 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:03.1574 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:06.6634 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:09.3938 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:12.6194 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:14.8254 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:18.3497 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:21.9466 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:25.2060 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:30.6680 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:34.9374 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:38.5567 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:40.8510 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:04:45.1878 [ERROR] UnassignedReferenceException: The variable audioSource of InteractWithSwitch has not been assigned.
+You probably need to assign the audioSource variable of the InteractWithSwitch script in the inspector.
+UnityEngine.AudioSource.Play () (at C:/buildslave/unity/build/artifacts/generated/bindings_old/common/Audio/AudioBindings.gen.cs:764)
+InteractWithSwitch.Update () (at C:/Users/Administrator/Documents/GitHub/NightLight/Project Files/Project/SideScroller Main Unity Project/Assets/NLS/Scripts/Interactions/InteractWithSwitch.cs:82)
+
+2019-04-01 19:05:41.6725 [DEBUG] Play mode: False
+2019-04-01 19:06:38.2142 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:08:53.1442 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:08:53.4334 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 19:14:57.6655 [DEBUG] Play mode: False
+2019-04-01 19:18:05.2580 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:18:14.3614 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:18:14.7005 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 19:18:28.8626 [DEBUG] Play mode: False
+2019-04-01 19:22:59.6377 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:22:59.9398 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 19:23:22.7835 [DEBUG] Play mode: False
+2019-04-01 19:23:38.2341 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:23:38.5456 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 19:24:37.8603 [DEBUG] Play mode: False
+2019-04-01 19:25:31.2983 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:25:31.6049 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 19:26:23.7944 [DEBUG] Play mode: False
+2019-04-01 19:27:33.5109 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 19:27:33.8510 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-01 19:29:12.5980 [DEBUG] Play mode: False
+2019-04-01 19:47:40.0594 [INFO] Launching Session: Scraps Level Slums
+2019-04-01 19:47:41.0567 [DEBUG] Connecting
+2019-04-01 19:47:41.0846 [DEBUG] Connecting to room (93354:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-04-01 20:08:44.6968 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 20:09:22.2310 [DEBUG] Connecting
+2019-04-01 20:09:22.2610 [DEBUG] Connecting to room (1::) via TCP at :21312
+2019-04-01 20:09:32.7709 [DEBUG] Sent C:/Users/Peter/Desktop/NightLight/Project Files/Project/SideScroller Main Unity Project/KSEditorLogs/SessionLogs/session.1-636897461622699950.log
+2019-04-01 20:09:39.8290 [DEBUG] Connecting
+2019-04-01 20:09:39.8400 [DEBUG] Connecting to room (93355:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-04-01 20:16:40.7918 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 20:16:53.6281 [DEBUG] Connecting
+2019-04-01 20:16:53.6590 [DEBUG] Connecting to room (93355:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
