@@ -130,6 +130,7 @@
     <Compile Include="Assets\FadeParticlesWithHealth.cs" />
     <Compile Include="Assets\KinematicSoup\SceneFusion\Extensions\Ferr2D\sfFerr2DAdaptor.cs" />
     <Compile Include="Assets\KinematicSoup\SceneFusion\FusionRoot.cs" />
+    <Compile Include="Assets\NLS\Scripts\CameraScreenShot.cs" />
     <Compile Include="Assets\NLS\Scripts\Depreciated\AutoConnectJoint.cs" />
     <Compile Include="Assets\NLS\Scripts\Depreciated\BeaLight.cs" />
     <Compile Include="Assets\NLS\Scripts\Elevator.cs" />

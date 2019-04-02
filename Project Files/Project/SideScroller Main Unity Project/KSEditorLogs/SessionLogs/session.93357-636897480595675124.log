@@ -1,0 +1,150 @@
+2019-04-01 20:40:59.6529 [DEBUG] Validating model...
+2019-04-01 20:40:59.7500 [DEBUG] Model updated
+2019-04-01 20:40:59.7510 [DEBUG] Authenticating with server...
+2019-04-01 20:41:00.3894 [DEBUG] Connected to room. (93357:SceneFusion:SceneFusion)
+2019-04-01 20:41:00.3962 [INFO] Connected to server.
+2019-04-01 20:41:00.3962 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 20:41:00.3962 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 20:41:00.3962 [DEBUG] Pro License : False
+2019-04-01 20:41:00.3962 [DEBUG] Platform : WindowsEditor
+2019-04-01 20:41:00.3962 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 20:41:00.3982 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 20:41:00.3982 [DEBUG] Scene Fusion client build : 0
+2019-04-01 20:41:00.3982 [DEBUG] User : bhoughton1@ncstudents.niagaracollege.ca
+2019-04-01 20:41:00.3982 [DEBUG] Waiting for server response
+2019-04-01 20:41:00.4836 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 20:41:00.4836 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 20:41:00.5499 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 20:41:00.5499 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 20:41:00.7861 [DEBUG] Uploading scene 'Scraps Level Slums'
+2019-04-01 20:41:01.0438 [DEBUG] Encoding objects for NLS/Scenes/Scraps Level Slums.unity
+2019-04-01 20:41:01.5025 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 20:41:26.1639 [DEBUG] Compressing scene data
+2019-04-01 20:41:52.4687 [DEBUG] Spawn request. (Objects: 11572)
+2019-04-01 20:41:52.4726 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:41:52.4755 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:41:52.4774 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:41:52.4804 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:41:52.4833 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:41:52.4853 [DEBUG] Room RPC. (Id: 75, Size: 20006, Reporting Threshold: 10000)
+2019-04-01 20:41:52.4872 [DEBUG] Room RPC. (Id: 75, Size: 15888, Reporting Threshold: 10000)
+2019-04-01 20:41:52.5184 [DEBUG] batch size: 135988
+2019-04-01 20:41:52.6629 [DEBUG] Upload
+2019-04-01 20:41:52.8689 [DEBUG] Waitng for server to process scene data
+2019-04-01 20:41:57.7306 [DEBUG] frame size: 81458
+2019-04-01 20:41:57.7453 [DEBUG] Download
+2019-04-01 20:42:00.1094 [DEBUG] Loading complete
+2019-04-01 20:45:12.6895 [DEBUG] Spawn request. (Objects: 12)
+2019-04-01 20:45:29.0947 [DEBUG] Spawn request. (Objects: 12)
+2019-04-01 20:45:43.1594 [DEBUG] Spawn request. (Objects: 36)
+2019-04-01 20:48:54.3573 [DEBUG] Spawn request. (Objects: 17)
+2019-04-01 20:49:41.7913 [DEBUG] Spawn request. (Objects: 7)
+2019-04-01 20:49:46.5321 [DEBUG] Spawn request. (Objects: 7)
+2019-04-01 20:49:53.0678 [DEBUG] Spawn request. (Objects: 7)
+2019-04-01 20:50:10.4353 [DEBUG] Spawn request. (Objects: 12)
+2019-04-01 20:50:29.1556 [DEBUG] Spawn request. (Objects: 12)
+2019-04-01 20:50:37.8382 [DEBUG] Spawn request. (Objects: 12)
+2019-04-01 20:51:08.8190 [DEBUG] Spawn request. (Objects: 36)
+2019-04-01 20:51:34.3382 [DEBUG] Removing 65 of 47392 instance ids from reference map.
+2019-04-01 20:57:43.1221 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 20:57:47.9429 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 20:57:53.4600 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 20:58:08.9764 [DEBUG] Spawn request. (Objects: 4)
+2019-04-01 20:59:40.2284 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 20:59:55.0728 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 21:04:31.2768 [DEBUG] Room RPC. (Id: 67, Size: 34101, Reporting Threshold: 10000)
+2019-04-01 21:04:51.6712 [DEBUG] batch size: 220737
+2019-04-01 21:04:52.1296 [DEBUG] frame size: 160555
+2019-04-01 21:18:05.4722 [DEBUG] Disconnecting temporarily to recompile.
+2019-04-01 21:18:05.4722 [DEBUG] Disconnecting from room (93357:SceneFusion:SceneFusion)
+2019-04-01 21:18:05.4859 [INFO] Disconnected from server.
+2019-04-01 21:18:05.4859 [DEBUG] Disconnect. (Duration: 2225)
+2019-04-01 21:18:34.6993 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 21:18:35.6887 [DEBUG] Connecting
+2019-04-01 21:18:35.7619 [DEBUG] Connecting to room (93357:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-04-01 21:18:35.8000 [DEBUG] Host connection. (Session: 93357)
+2019-04-01 21:18:35.8888 [DEBUG] Validating model...
+2019-04-01 21:18:35.9923 [DEBUG] Model updated
+2019-04-01 21:18:35.9933 [DEBUG] Authenticating with server...
+2019-04-01 21:18:36.2413 [DEBUG] Connected to room. (93357:SceneFusion:SceneFusion)
+2019-04-01 21:18:36.7586 [INFO] Connected to server.
+2019-04-01 21:18:36.7586 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 21:18:36.7586 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 21:18:36.7586 [DEBUG] Pro License : False
+2019-04-01 21:18:36.7596 [DEBUG] Platform : WindowsEditor
+2019-04-01 21:18:36.7596 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 21:18:36.7596 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 21:18:36.7596 [DEBUG] Scene Fusion client build : 0
+2019-04-01 21:18:36.7596 [DEBUG] User : bhoughton1@ncstudents.niagaracollege.ca
+2019-04-01 21:18:36.7596 [DEBUG] Waiting for server response
+2019-04-01 21:18:48.3547 [DEBUG] frame size: 196554
+2019-04-01 21:18:48.3625 [DEBUG] Download
+2019-04-01 21:18:51.1249 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 21:18:51.1249 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 21:18:51.2088 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 21:18:51.2088 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 21:18:52.3127 [DEBUG] Download finished
+2019-04-01 21:19:08.7667 [DEBUG] Loading complete
+2019-04-01 21:21:58.2972 [DEBUG] Disconnecting temporarily to recompile.
+2019-04-01 21:21:58.2972 [DEBUG] Disconnecting from room (93357:SceneFusion:SceneFusion)
+2019-04-01 21:21:58.3128 [INFO] Disconnected from server.
+2019-04-01 21:21:58.3128 [DEBUG] Disconnect. (Duration: 2457)
+2019-04-01 21:22:08.9185 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 21:22:09.8921 [DEBUG] Connecting
+2019-04-01 21:22:09.9370 [DEBUG] Connecting to room (93357:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-04-01 21:22:09.9478 [DEBUG] Host connection. (Session: 93357)
+2019-04-01 21:22:10.0346 [DEBUG] Validating model...
+2019-04-01 21:22:10.1361 [DEBUG] Model updated
+2019-04-01 21:22:10.1371 [DEBUG] Authenticating with server...
+2019-04-01 21:22:10.3850 [DEBUG] Connected to room. (93357:SceneFusion:SceneFusion)
+2019-04-01 21:22:10.4016 [INFO] Connected to server.
+2019-04-01 21:22:10.4016 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 21:22:10.4016 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 21:22:10.4016 [DEBUG] Pro License : False
+2019-04-01 21:22:10.4026 [DEBUG] Platform : WindowsEditor
+2019-04-01 21:22:10.4026 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 21:22:10.4026 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 21:22:10.4026 [DEBUG] Scene Fusion client build : 0
+2019-04-01 21:22:10.4026 [DEBUG] User : bhoughton1@ncstudents.niagaracollege.ca
+2019-04-01 21:22:10.4026 [DEBUG] Waiting for server response
+2019-04-01 21:22:21.4165 [DEBUG] frame size: 196572
+2019-04-01 21:22:21.4253 [DEBUG] Download
+2019-04-01 21:22:24.5018 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 21:22:24.5018 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 21:22:24.5321 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 21:22:24.5321 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 21:22:25.6393 [DEBUG] Download finished
+2019-04-01 21:22:40.2945 [DEBUG] Loading complete
+2019-04-01 21:23:58.3907 [DEBUG] Disconnecting temporarily to recompile.
+2019-04-01 21:23:58.3916 [DEBUG] Disconnecting from room (93357:SceneFusion:SceneFusion)
+2019-04-01 21:23:58.4082 [INFO] Disconnected from server.
+2019-04-01 21:23:58.4082 [DEBUG] Disconnect. (Duration: 2578)
+2019-04-01 21:24:07.0711 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-01 21:24:07.8387 [DEBUG] Connecting
+2019-04-01 21:24:07.9510 [DEBUG] Connecting to room (93357:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-04-01 21:24:08.0866 [DEBUG] Host connection. (Session: 93357)
+2019-04-01 21:24:08.1735 [DEBUG] Validating model...
+2019-04-01 21:24:08.2623 [DEBUG] Model updated
+2019-04-01 21:24:08.2623 [DEBUG] Authenticating with server...
+2019-04-01 21:24:08.4014 [DEBUG] Connected to room. (93357:SceneFusion:SceneFusion)
+2019-04-01 21:24:08.4175 [INFO] Connected to server.
+2019-04-01 21:24:08.4175 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 21:24:08.4175 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 21:24:08.4175 [DEBUG] Pro License : False
+2019-04-01 21:24:08.4175 [DEBUG] Platform : WindowsEditor
+2019-04-01 21:24:08.4175 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 21:24:08.4175 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 21:24:08.4175 [DEBUG] Scene Fusion client build : 0
+2019-04-01 21:24:08.4175 [DEBUG] User : bhoughton1@ncstudents.niagaracollege.ca
+2019-04-01 21:24:08.4175 [DEBUG] Waiting for server response
+2019-04-01 21:24:20.4293 [DEBUG] frame size: 198248
+2019-04-01 21:24:20.5269 [DEBUG] Download
+2019-04-01 21:24:22.9830 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 21:24:22.9830 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 21:24:23.0122 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 21:24:23.0122 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 21:24:24.0276 [DEBUG] Download finished
+2019-04-01 21:24:39.0202 [DEBUG] Loading complete
+2019-04-01 21:28:26.5022 [DEBUG] Disconnecting from room (93357:SceneFusion:SceneFusion)
+2019-04-01 21:28:26.5061 [INFO] Disconnected from server.
+2019-04-01 21:28:26.5061 [DEBUG] Disconnect. (Duration: 2846)
