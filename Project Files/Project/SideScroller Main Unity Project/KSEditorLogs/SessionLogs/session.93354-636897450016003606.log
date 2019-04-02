@@ -1,0 +1,47 @@
+2019-04-01 19:50:01.8053 [DEBUG] Validating model...
+2019-04-01 19:50:02.1084 [DEBUG] Model updated
+2019-04-01 19:50:02.1084 [DEBUG] Authenticating with server...
+2019-04-01 19:50:03.2876 [DEBUG] Connected to room. (93354:SceneFusion:SceneFusion)
+2019-04-01 19:50:03.3022 [INFO] Connected to server.
+2019-04-01 19:50:03.3022 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-04-01 19:50:03.3022 [DEBUG] Unity Version : 2018.2.2f1
+2019-04-01 19:50:03.3022 [DEBUG] Pro License : False
+2019-04-01 19:50:03.3022 [DEBUG] Platform : WindowsEditor
+2019-04-01 19:50:03.3022 [DEBUG] Build Target : StandaloneWindows64
+2019-04-01 19:50:03.3032 [DEBUG] Scene Fusion version : 1.8.2
+2019-04-01 19:50:03.3032 [DEBUG] Scene Fusion client build : 0
+2019-04-01 19:50:03.3032 [DEBUG] User : bhoughton1@ncstudents.niagaracollege.ca
+2019-04-01 19:50:03.3032 [DEBUG] Waiting for server response
+2019-04-01 19:50:13.3317 [DEBUG] frame size: 179425
+2019-04-01 19:50:13.3883 [DEBUG] Download
+2019-04-01 19:50:17.0368 [DEBUG] Tier: SF Essential 5, Permissions: 00000003
+2019-04-01 19:50:17.0368 [DEBUG] User Permissions: FFFFFFFF
+2019-04-01 19:50:17.2905 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-04-01 19:50:17.2905 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-04-01 19:50:19.0441 [DEBUG] Download finished
+2019-04-01 19:50:19.0958 [WARNING] Unable to load prefab 'Assets/NLS/Prefabs/Environment/Misc/Light 01.prefab'.
+2019-04-01 19:50:19.0997 [WARNING] Unable to load prefab 'Assets/NLS/Prefabs/Environment/Misc/Light 01.prefab'.
+2019-04-01 19:50:19.1007 [WARNING] Unable to load prefab 'Assets/NLS/Prefabs/Environment/Misc/Light 01.prefab'.
+2019-04-01 19:50:19.1017 [WARNING] Unable to load prefab 'Assets/NLS/Prefabs/Environment/Misc/Light 01.prefab'.
+2019-04-01 19:50:19.1027 [WARNING] Unable to load prefab 'Assets/NLS/Prefabs/Environment/Misc/Light 01.prefab'.
+2019-04-01 19:50:19.1036 [WARNING] Unable to load prefab 'Assets/NLS/Prefabs/Environment/Misc/Light 01.prefab'.
+2019-04-01 19:50:19.1046 [WARNING] Unable to load prefab 'Assets/NLS/Prefabs/Environment/Misc/Light 01.prefab'.
+2019-04-01 19:50:19.8766 [WARNING] Error loading component ':MoveElevator': Could not find type 'MoveElevator'.
+2019-04-01 19:50:35.7826 [DEBUG] Loading complete
+2019-04-01 19:53:55.9526 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 19:54:45.8891 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 19:54:49.7587 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 19:55:59.5539 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 19:56:41.9934 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 19:57:01.0121 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 19:57:01.3006 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 19:58:41.9252 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 19:58:53.6970 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 20:02:18.9561 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 20:02:19.2323 [WARNING] Cannot sync '' (RenderTexture) because it is not in Unity's asset database.
+2019-04-01 20:04:01.8183 [DEBUG] Spawn request. (Objects: 1)
+2019-04-01 20:05:49.9372 [DEBUG] Spawn request. (Objects: 10)
+2019-04-01 20:05:56.9084 [DEBUG] Spawn request. (Objects: 88)
+2019-04-01 20:06:07.0848 [DEBUG] Disconnecting from room (93354:SceneFusion:SceneFusion)
+2019-04-01 20:06:11.1176 [INFO] Disconnected from server.
+2019-04-01 20:06:11.1176 [DEBUG] Disconnect. (Duration: 963)
