@@ -106,7 +106,7 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 683, y: 492}
+  m_MinSize: {x: 778, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
   controlID: 28
@@ -254,9 +254,9 @@ MonoBehaviour:
     y: 0
     width: 417
     height: 947
-  m_MinSize: {x: 277, y: 71}
+  m_MinSize: {x: 372, y: 411}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 18}
+  m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 18}
   - {fileID: 19}
@@ -264,8 +264,8 @@ MonoBehaviour:
   - {fileID: 21}
   - {fileID: 22}
   - {fileID: 23}
-  m_Selected: 0
-  m_LastSelected: 2
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -371,14 +371,14 @@ MonoBehaviour:
     height: 650
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 1479.4004750052502
+  lastFramingTime: 1540.804083072777
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -95.069824, y: 49.743675, z: -60.879223}
+    m_Target: {x: 56.92342, y: 53.709362, z: -4.65522}
     speed: 2
-    m_Value: {x: -95.069824, y: 49.743675, z: -60.879223}
+    m_Value: {x: 56.92342, y: 53.709362, z: -4.65522}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -406,13 +406,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.21263765, y: -0.04598356, z: 0.0100195035, w: 0.9759972}
+    m_Target: {x: -0.13127218, y: 0.073366724, z: -0.009743662, w: -0.9885798}
     speed: 2
-    m_Value: {x: 0.21263762, y: -0.045983557, z: 0.010019503, w: 0.9759971}
+    m_Value: {x: -0.13127218, y: 0.073366724, z: -0.009743662, w: -0.9885798}
   m_Size:
-    m_Target: 8.523981
+    m_Target: 4.655436
     speed: 2
-    m_Value: 8.523981
+    m_Value: 4.655436
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -526,10 +526,10 @@ MonoBehaviour:
     height: 650
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 352}
-    m_SelectedIDs: 682a0100
-    m_LastClickedID: 76392
-    m_ExpandedIDs: 4e51fffffa63ffff8489ffffc89dffffc0bcffff12cdffffd2fbffff00000000723b000088520000dc6c0000787d0000807e0000c28d00006e950000b2dc000032eb00001af30000682a0100
+    scrollPos: {x: 0, y: 919}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 941afdff9223fdffd626fdff4c30fdff4641fdff1c58fdff6263fdff4271fdffd2fbffff00000000927c0100a47c0100cc7f01000281010066830100c0840100f2860100008f0100088f01004a8f010028910100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -548,7 +548,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
   m_ExpandedScenes:
-  - Scraps Level Slums
+  - Scraps Level Station
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -590,11 +590,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/NLS/Models
+    - Assets/NLS/Materials
   m_ViewMode: 1
   m_StartGridSize: 61
   m_LastFolders:
-  - Assets/NLS/Models
+  - Assets/NLS/Materials
   m_LastFoldersGridSize: 61
   m_LastProjectPath: C:\Users\Blake\Documents\GitHub\NightLight\Project Files\Project\SideScroller
     Main Unity Project
@@ -602,9 +602,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 112.60541}
-    m_SelectedIDs: 1e330000
-    m_LastClickedID: 13086
-    m_ExpandedIDs: 00000000da0d0000520f0000e615000000160000c2180000fa1c0000041e00002c1e000086200000bc210000be230000b62400006e3000008831000090310000be740100c074010000ca9a3b
+    m_SelectedIDs: 641f0000
+    m_LastClickedID: 8036
+    m_ExpandedIDs: 00000000da0d0000520f0000e615000000160000c2180000fa1c0000041e00002c1e000086200000bc210000be230000b62400006e30000090310000e0740100e274010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -632,7 +632,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000da0d0000520f0000e615000000160000c2180000fa1c0000041e00002c1e000086200000bc210000be230000b62400006e30000090310000be740100c0740100
+    m_ExpandedIDs: 00000000da0d0000520f0000e615000000160000c2180000fa1c0000041e00002c1e000086200000bc210000be230000b62400006e3000008831000090310000e0740100e2740100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -684,7 +684,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 66.5}
+    m_ScrollPosition: {x: 0, y: 73}
     m_GridSize: 61
   m_DirectoriesAreaWidth: 207
 --- !u!114 &17
@@ -766,9 +766,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1515
+    x: 1505
     y: 92
-    width: 405
+    width: 415
     height: 926
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &20
