@@ -139,7 +139,7 @@ public class PlayerMove : MonoBehaviour
 
             if (Input.GetButtonDown("Horizontal") && GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
                 transform.Find("JennoAnimated").GetComponent<Animator>().SetTrigger("StartMove");
-            else if(Input.GetButtonUp("Horizontal") && GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
+            else if(Input.GetButtonUp("Horizontal"))
                 transform.Find("JennoAnimated").GetComponent<Animator>().SetTrigger("StopMove");
         }
 
