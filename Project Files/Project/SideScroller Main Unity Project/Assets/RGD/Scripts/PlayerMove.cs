@@ -136,6 +136,11 @@ public class PlayerMove : MonoBehaviour
             animator.SetFloat("DistanceToTarget", characterMotor.DistanceToTarget);
             animator.SetBool("Grounded", grounded);
             animator.SetFloat("YVelocity", GetComponent<Rigidbody>().velocity.y);
+
+            if (Input.GetButtonDown("Horizontal") && GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
+                transform.Find("JennoAnimated").GetComponent<Animator>().SetTrigger("StartMove");
+            else if(Input.GetButtonUp("Horizontal") && GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
+                transform.Find("JennoAnimated").GetComponent<Animator>().SetTrigger("StopMove");
         }
 
     }
