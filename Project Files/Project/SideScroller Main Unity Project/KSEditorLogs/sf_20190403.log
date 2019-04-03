@@ -90,3 +90,4 @@ System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Ad
 Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
 
 2019-04-03 11:33:42.3451 [DEBUG] Play mode: False
+2019-04-03 11:51:15.0094 [DEBUG] Scene Fusion version 1.8.2-0
