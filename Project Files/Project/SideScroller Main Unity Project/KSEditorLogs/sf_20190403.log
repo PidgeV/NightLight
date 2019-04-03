@@ -23,3 +23,62 @@
 2019-04-03 00:10:05.8777 [DEBUG] Play mode: True, sync in play mode: False
 2019-04-03 00:10:39.2231 [DEBUG] Play mode: False
 2019-04-03 00:14:23.7107 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 10:37:49.0646 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 10:38:10.8352 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 10:38:11.1666 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 10:38:55.9083 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-03 10:38:58.6832 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-03 10:40:12.9046 [DEBUG] Play mode: False
+2019-04-03 10:41:09.5664 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 10:41:09.7655 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 10:41:19.3153 [DEBUG] Play mode: False
+2019-04-03 10:41:39.4402 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 10:41:39.6725 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 10:42:13.6884 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-03 10:42:15.6795 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-03 10:42:17.8099 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-03 10:42:19.6938 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-03 10:44:06.8418 [DEBUG] Play mode: False
+2019-04-03 10:45:32.4021 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 10:45:32.6587 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 10:46:25.4372 [DEBUG] Play mode: False
+2019-04-03 10:48:06.7341 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 10:48:07.0289 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 10:49:15.1024 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-03 10:55:19.7311 [DEBUG] Play mode: False
+2019-04-03 11:03:58.9762 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 11:03:59.1538 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 11:04:13.1560 [DEBUG] Play mode: False
+2019-04-03 11:08:00.6420 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 11:08:00.7733 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 11:08:16.7571 [DEBUG] Play mode: False
+2019-04-03 11:08:37.0786 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 11:08:37.3489 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 11:08:49.3883 [DEBUG] Play mode: False
+2019-04-03 11:09:06.9097 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 11:09:07.1503 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 11:09:16.8609 [DEBUG] Play mode: False
+2019-04-03 11:10:01.5864 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 11:10:01.8645 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 11:10:27.8794 [DEBUG] Play mode: False
