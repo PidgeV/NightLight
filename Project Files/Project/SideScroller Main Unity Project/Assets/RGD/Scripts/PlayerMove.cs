@@ -48,6 +48,8 @@ public class PlayerMove : MonoBehaviour
 	private Rigidbody rigid;
 	private AudioSource aSource;
 
+    private Animator JennoAnim;
+
     public string playerTag = "Player";
 
 	//setup
@@ -65,7 +67,7 @@ public class PlayerMove : MonoBehaviour
 			check.transform.parent = floorChecks;
 			check.transform.position = transform.position;
 			Debug.LogWarning("No 'floorChecks' assigned to PlayerMove script, so a single floorcheck has been created", floorChecks);
-		}
+        }
 		//assign player tag if not already
 		if(tag != playerTag)
 		{
@@ -83,7 +85,9 @@ public class PlayerMove : MonoBehaviour
 		floorCheckers = new Transform[floorChecks.childCount];
 		for (int i=0; i < floorCheckers.Length; i++)
 			floorCheckers[i] = floorChecks.GetChild(i);
-	}
+
+        JennoAnim = transform.Find("JennoAnimated").GetComponent<Animator>();
+    }
 	
 	//get state of player, values and input
 	void Update()
@@ -138,9 +142,15 @@ public class PlayerMove : MonoBehaviour
             animator.SetFloat("YVelocity", GetComponent<Rigidbody>().velocity.y);
 
             if (Input.GetButtonDown("Horizontal") && GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
-                transform.Find("JennoAnimated").GetComponent<Animator>().SetTrigger("StartMove");
-            else if(Input.GetButtonUp("Horizontal"))
-                transform.Find("JennoAnimated").GetComponent<Animator>().SetTrigger("StopMove");
+            {
+                JennoAnim.SetBool("StartMove", true);
+                JennoAnim.SetBool("StopMove", false);
+            }
+            else if (Input.GetButtonUp("Horizontal"))
+            {
+                JennoAnim.SetBool("StopMove", true);
+                JennoAnim.SetBool("StartMove", false);
+            }
         }
 
     }

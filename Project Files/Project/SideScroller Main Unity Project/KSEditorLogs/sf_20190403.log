@@ -91,3 +91,181 @@ Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.c
 
 2019-04-03 11:33:42.3451 [DEBUG] Play mode: False
 2019-04-03 11:51:15.0094 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 17:52:33.1926 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 18:47:35.0567 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 18:47:35.1617 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 18:48:40.8088 [DEBUG] Play mode: False
+2019-04-03 18:49:37.7598 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 18:49:37.8521 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 18:50:23.1118 [DEBUG] Play mode: False
+2019-04-03 18:50:28.3747 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 18:50:28.4718 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 18:53:07.7845 [DEBUG] Play mode: False
+2019-04-03 18:53:12.9432 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 18:53:13.0540 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 18:54:47.1659 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:141)
+
+2019-04-03 18:54:47.1679 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:141)
+
+2019-04-03 18:54:48.2182 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:143)
+
+2019-04-03 18:54:48.6155 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:141)
+
+2019-04-03 18:54:49.8839 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:143)
+
+2019-04-03 18:54:50.5466 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:141)
+
+2019-04-03 18:54:50.5486 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:141)
+
+2019-04-03 18:54:51.2256 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:143)
+
+2019-04-03 18:54:51.2275 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:143)
+
+2019-04-03 18:59:25.9787 [DEBUG] Play mode: False
+2019-04-03 19:04:54.3175 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 19:05:19.0292 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 19:05:19.1864 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 19:06:25.3696 [DEBUG] Play mode: False
+2019-04-03 19:08:06.0215 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 19:08:23.1422 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 19:08:23.2618 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 19:08:23.2867 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:23.2877 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:23.2887 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:23.2897 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:23.2906 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:23.2916 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:23.6344 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:23.6354 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:23.6364 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:24.3954 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:24.3964 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:25.8805 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:26.0797 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:27.0540 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:27.1160 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:27.2297 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:27.2727 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:27.3981 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:27.4884 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:27.5294 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:27.6295 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:28.0561 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:28.0785 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:28.3582 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:31.3353 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:32.2752 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:32.3030 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:32.3040 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:32.7687 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:32.7697 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:08:32.8175 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:32.9020 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:152)
+
+2019-04-03 19:08:34.7087 [DEBUG] Play mode: False
+2019-04-03 19:10:07.5016 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 19:10:08.0999 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 19:10:14.6655 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:10:17.1858 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:10:20.1569 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:10:20.6234 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:10:20.9641 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:10:21.1417 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PlayerMove.FixedUpdate () (at Assets/RGD/Scripts/PlayerMove.cs:147)
+
+2019-04-03 19:10:43.3408 [DEBUG] Play mode: False
+2019-04-03 19:11:54.0527 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 19:11:54.3500 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 19:12:27.7860 [DEBUG] Play mode: False
+2019-04-03 19:12:42.9200 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 19:12:55.6028 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 19:12:55.7582 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 19:14:10.8780 [DEBUG] Play mode: False
+2019-04-03 21:47:06.8896 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 21:47:07.3093 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 21:47:30.6421 [DEBUG] Play mode: False
+2019-04-03 21:50:07.6175 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-03 21:50:07.9537 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-03 21:50:21.1782 [DEBUG] Play mode: False
