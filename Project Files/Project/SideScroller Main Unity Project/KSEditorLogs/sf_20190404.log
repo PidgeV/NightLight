@@ -1,0 +1,32 @@
+2019-04-04 00:01:33.0524 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:17:27.0766 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:17:53.3146 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:17:53.4689 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-04 00:18:37.5304 [DEBUG] Play mode: False
+2019-04-04 00:21:56.1442 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:28:54.8966 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:28:55.0182 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-04 00:29:17.1429 [DEBUG] Play mode: False
+2019-04-04 00:31:23.8841 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:31:24.0266 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-04 00:33:04.1945 [DEBUG] Play mode: False
+2019-04-04 00:33:28.2751 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:33:28.4137 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-04 00:33:35.4694 [DEBUG] Play mode: False
+2019-04-04 00:35:26.1897 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:40:06.1330 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:43:52.5252 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:44:02.9335 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:44:03.1444 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-04 00:44:44.6911 [DEBUG] Play mode: False
+2019-04-04 00:46:26.7655 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:56:08.8629 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:58:34.8869 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 00:58:35.0142 [DEBUG] Play mode: True, sync in play mode: False
+2019-04-04 00:58:56.5760 [ERROR] ArgumentException: An element with the same key already exists in the dictionary.
+System.Collections.Generic.Dictionary`2[UnityEngine.GameObject,System.Single].Add (UnityEngine.GameObject key, Single value) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/Dictionary.cs:404)
+Water.OnTriggerEnter (UnityEngine.Collider other) (at Assets/RGD/Scripts/Water.cs:64)
+
+2019-04-04 01:02:33.7189 [DEBUG] Play mode: False
+2019-04-04 01:06:34.0872 [DEBUG] Scene Fusion version 1.8.2-0
+2019-04-04 09:19:10.4633 [DEBUG] Scene Fusion version 1.8.2-0

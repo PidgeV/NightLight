@@ -141,12 +141,12 @@ public class PlayerMove : MonoBehaviour
             animator.SetBool("Grounded", grounded);
             animator.SetFloat("YVelocity", GetComponent<Rigidbody>().velocity.y);
 
-            if (Input.GetButtonDown("Horizontal") && GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
+            if (Input.GetButton("Horizontal") && GameObject.FindGameObjectWithTag("LevelControl").GetComponent<SwitchCharacterControl>().onPlayer1)
             {
                 JennoAnim.SetBool("StartMove", true);
                 JennoAnim.SetBool("StopMove", false);
             }
-            else if (Input.GetButtonUp("Horizontal"))
+            else
             {
                 JennoAnim.SetBool("StopMove", true);
                 JennoAnim.SetBool("StartMove", false);
